@@ -1,0 +1,101 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyperFirstAtBeginDocument{\AtBeginDocument}
+\HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
+\global\let\oldnewlabel\newlabel
+\gdef\newlabel#1#2{\newlabelxx{#1}#2}
+\gdef\newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
+\AtEndDocument{\ifx\hyper@anchor\@undefined
+\let\newlabel\oldnewlabel
+\fi}
+\fi}
+\global\let\hyper@last\relax 
+\gdef\HyperFirstAtBeginDocument#1{#1}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\citation{Hutto2014}
+\citation{Hutto2014}
+\citation{Ziv1978}
+\citation{Li2008}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}{section.1}\protected@file@percent }
+\citation{Reber2004}
+\citation{Colostate2018}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.1}Theoretical Motivation and Contradictions}{2}{subsection.1.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.2}Contributions}{2}{subsection.1.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {2}Related Work}{2}{section.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Compression-Based Text Classification}{2}{subsection.2.1}\protected@file@percent }
+\citation{Jiang2023}
+\citation{Teahan2000}
+\citation{Frank2000}
+\citation{Hutto2014}
+\citation{Loria2018}
+\citation{Li2008}
+\citation{Ziv1978}
+\citation{Alexeenko2019}
+\citation{InfoDynamics2019}
+\citation{Ziv1978}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Rule-Based Sentiment Analysis}{3}{subsection.2.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}Algorithmic Information Theory and Kolmogorov Complexity}{3}{subsection.2.3}\protected@file@percent }
+\citation{InfoDynamics2019}
+\citation{Jiang2023}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Illustration of the LZ78 compression algorithm parsing the input string 'ababab'. The algorithm builds a dictionary of phrases sequentially: after processing, the dictionary contains entries for 'a', 'b', 'ab', 'ba', etc. The number of dictionary entries serves as the LZ78 complexity measure.}}{4}{figure.1}\protected@file@percent }
+\newlabel{fig:lz78_algorithm}{{1}{4}{Illustration of the LZ78 compression algorithm parsing the input string 'ababab'. The algorithm builds a dictionary of phrases sequentially: after processing, the dictionary contains entries for 'a', 'b', 'ab', 'ba', etc. The number of dictionary entries serves as the LZ78 complexity measure}{figure.1}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}LZ78 Complexity and Kolmogorov Complexity}{4}{section.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}The LZ78 Algorithm}{4}{subsection.3.1}\protected@file@percent }
+\citation{Li2008}
+\citation{Ziv1978}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Connection to Kolmogorov Complexity}{5}{subsection.3.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Normalization for Text of Varying Lengths}{5}{subsection.3.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4}Methodology}{5}{section.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Direction-Aware Classifier}{5}{subsection.4.1}\protected@file@percent }
+\citation{Hutto2014}
+\citation{Loria2018}
+\citation{Jiang2023}
+\citation{Cliff1993}
+\citation{Maas2011}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Baseline Methods}{6}{subsection.4.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Evaluation Metrics}{6}{subsection.4.3}\protected@file@percent }
+\citation{Zhang2015}
+\citation{Barbieri2020}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Experimental Setup}{7}{section.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Datasets}{7}{subsection.5.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Implementation Details}{7}{subsection.5.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {6}Results}{7}{section.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.1}RQ1: Statistical Difference in LZ78 Complexity}{7}{subsection.6.1}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Statistical Comparison of LZ78 Complexity Between Positive and Negative Sentiment}}{7}{table.1}\protected@file@percent }
+\newlabel{tab:statistical_comparison}{{1}{7}{Statistical Comparison of LZ78 Complexity Between Positive and Negative Sentiment}{table.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Distribution of normalized LZ78 complexity (gzip compressed bytes per character) for positive vs. negative sentiment across three datasets. IMDB reviews show no significant difference (p=0.316, Cliff's delta=-0.007). Amazon reviews show small but significant difference (p$<$0.001, Cliff's delta=0.075) with negative reviews having higher complexity. TweetEval tweets show medium significant difference (p$<$0.001, Cliff's delta=0.347) with negative tweets having higher complexity. Boxplots show median (center line), interquartile range (box), and outliers (dots).}}{8}{figure.2}\protected@file@percent }
+\newlabel{fig:complexity_distributions}{{2}{8}{Distribution of normalized LZ78 complexity (gzip compressed bytes per character) for positive vs. negative sentiment across three datasets. IMDB reviews show no significant difference (p=0.316, Cliff's delta=-0.007). Amazon reviews show small but significant difference (p$<$0.001, Cliff's delta=0.075) with negative reviews having higher complexity. TweetEval tweets show medium significant difference (p$<$0.001, Cliff's delta=0.347) with negative tweets having higher complexity. Boxplots show median (center line), interquartile range (box), and outliers (dots)}{figure.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.2}RQ2: Classification Accuracy}{8}{subsection.6.2}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Classification Performance (Accuracy and Macro-F1)}}{9}{table.2}\protected@file@percent }
+\newlabel{tab:classification_performance}{{2}{9}{Classification Performance (Accuracy and Macro-F1)}{table.2}{}}
+\citation{Jiang2023}
+\citation{Jiang2023}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Comparison of classification accuracy (\%) across three datasets and four methods (LZ78, VADER, TextBlob, NPC-gzip). LZ78 achieves 50.1\% on IMDB, 53.2\% on Amazon, and 62.9\% on tweets. VADER achieves 69.8\%, 71.2\%, and 74.5\% respectively. TextBlob achieves 69.1\%, 68.5\%, and 63.9\%. NPC-gzip performs near random (50.0\%, 50.1\%, 49.0\%). Error bars show 95\% confidence intervals from bootstrap resampling (n=1000).}}{10}{figure.3}\protected@file@percent }
+\newlabel{fig:accuracy_comparison}{{3}{10}{Comparison of classification accuracy (\%) across three datasets and four methods (LZ78, VADER, TextBlob, NPC-gzip). LZ78 achieves 50.1\% on IMDB, 53.2\% on Amazon, and 62.9\% on tweets. VADER achieves 69.8\%, 71.2\%, and 74.5\% respectively. TextBlob achieves 69.1\%, 68.5\%, and 63.9\%. NPC-gzip performs near random (50.0\%, 50.1\%, 49.0\%). Error bars show 95\% confidence intervals from bootstrap resampling (n=1000)}{figure.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.3}Analysis of Complexity Distributions}{10}{subsection.6.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.4}Baseline Comparison: NPC-gzip}{10}{subsection.6.4}\protected@file@percent }
+\citation{Reber2004}
+\@writefile{toc}{\contentsline {section}{\numberline {7}Discussion}{11}{section.7}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.1}Theoretical Implications}{11}{subsection.7.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.2}Practical Utility}{11}{subsection.7.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.3}Limitations}{11}{subsection.7.3}\protected@file@percent }
+\bibstyle{plainnat}
+\bibdata{references}
+\bibcite{Alexeenko2019}{{1}{2019}{{Alexeenko et~al.}}{{Alexeenko, Fraser, Dolgoborodov, et~al.}}}
+\bibcite{Barbieri2020}{{2}{2020}{{Barbieri et~al.}}{{Barbieri, Camacho-Collados, Espinosa-Anke, and Neves}}}
+\bibcite{Cliff1993}{{3}{1993}{{Cliff}}{{}}}
+\bibcite{InfoDynamics2019}{{4}{2019}{{Dynamics}}{{}}}
+\bibcite{Frank2000}{{5}{2000}{{Frank et~al.}}{{Frank, Ho, and Witten}}}
+\bibcite{Hutto2014}{{6}{2014}{{Hutto and Gilbert}}{{}}}
+\bibcite{Jiang2023}{{7}{2023}{{Jiang et~al.}}{{Jiang, Yang, Tsirlin, Tang, Dai, and Lin}}}
+\@writefile{toc}{\contentsline {section}{\numberline {8}Conclusion}{12}{section.8}\protected@file@percent }
+\bibcite{Li2008}{{8}{2008}{{Li and Vit{\'a}nyi}}{{}}}
+\bibcite{Loria2018}{{9}{2018}{{Loria and the TextBlob~contributors}}{{}}}
+\bibcite{Maas2011}{{10}{2011}{{Maas et~al.}}{{Maas, Daly, Pham, Huang, Ng, and Potts}}}
+\bibcite{Reber2004}{{11}{2004}{{Reber et~al.}}{{Reber, Schwarz, and Winkielman}}}
+\bibcite{Colostate2018}{{12}{2018}{{School}}{{}}}
+\bibcite{Teahan2000}{{13}{2000}{{Teahan and Cleary}}{{}}}
+\bibcite{Zhang2015}{{14}{2015}{{Zhang et~al.}}{{Zhang, Zhao, and LeCun}}}
+\bibcite{Ziv1978}{{15}{1978}{{Ziv and Lempel}}{{}}}
+\gdef \@abspage@last{13}

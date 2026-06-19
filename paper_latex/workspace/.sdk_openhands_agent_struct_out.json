@@ -1,0 +1,14 @@
+{
+  "title": "LZ78 Complexity for Rule-Based Sentiment Classification: An Empirical Investigation",
+  "summary": "Successfully created a publication-ready LaTeX paper with BibTeX from the provided paper text and figures. The paper is 13 pages and includes: (1) All 8 sections from the paper text (Introduction, Related Work, LZ78 Complexity and Kolmogorov Complexity, Methodology, Experimental Setup, Results, Discussion, Conclusion), (2) All 3 figures from <available_figures> properly placed at their markers (fig1: LZ78 Algorithm Illustration, fig2: Complexity Distributions, fig3: Classification Accuracy Comparison), (3) Complete references.bib with 15 BibTeX entries for all cited works, (4) Proper LaTeX formatting with tables for results, mathematical notation, and natbib citations. The paper was compiled to PDF successfully through pdflatex and bibtex. Visual review of all 13 pages confirmed proper layout with no overlapping figures or cut-off text. The paper investigates whether LZ78 algorithmic complexity can classify sentiment without training data across three standard datasets (IMDB, Amazon Polarity, TweetEval).",
+  "out_expected_files": {
+    "paper_tex_path": "paper.tex",
+    "paper_pdf_path": "paper.pdf",
+    "references_bib_path": "references.bib",
+    "figure_paths": [
+      "figures/fig1_v0.jpg",
+      "figures/fig2_v0.jpg",
+      "figures/fig3_v0.jpg"
+    ]
+  }
+}

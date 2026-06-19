@@ -1,0 +1,107 @@
+\begin{thebibliography}{15}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Alexeenko et~al.(2019)Alexeenko, Fraser, Dolgoborodov,
+  et~al.]{Alexeenko2019}
+Vadim Alexeenko, James~A. Fraser, Alexey Dolgoborodov, et~al.
+\newblock The application of lempel-ziv and titchener complexity analysis for
+  equine telemetric electrocardiographic recordings.
+\newblock \emph{Scientific Reports}, 9:\penalty0 2619, 2019.
+\newblock \doi{10.1038/s41598-019-39279-9}.
+
+\bibitem[Barbieri et~al.(2020)Barbieri, Camacho-Collados, Espinosa-Anke, and
+  Neves]{Barbieri2020}
+Francesco Barbieri, Jose Camacho-Collados, Luis Espinosa-Anke, and Leonardo
+  Neves.
+\newblock Tweeteval: Unified benchmark and comparative evaluation for tweet
+  classification.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  EMNLP 2020}, pages 1644--1650, 2020.
+
+\bibitem[Cliff(1993)]{Cliff1993}
+Norman Cliff.
+\newblock Dominance statistics: Ordinal analyses to answer ordinal questions.
+\newblock \emph{Psychological Bulletin}, 114\penalty0 (3):\penalty0 494--509,
+  1993.
+\newblock \doi{10.1037/0033-2909.114.3.494}.
+
+\bibitem[Dynamics(2019)]{InfoDynamics2019}
+Information Dynamics.
+\newblock When and how to use lempel-ziv complexity.
+\newblock Blog post, 2019.
+
+\bibitem[Frank et~al.(2000)Frank, Ho, and Witten]{Frank2000}
+Eibe Frank, Chiu~Man Ho, and Ian~H. Witten.
+\newblock Text categorization using compression models.
+\newblock In \emph{Proceedings of the IEEE Data Compression Conference}, 2000.
+
+\bibitem[Hutto and Gilbert(2014)]{Hutto2014}
+C.~J. Hutto and Eric Gilbert.
+\newblock Vader: A parsimonious rule-based model for sentiment analysis of
+  social media text.
+\newblock In \emph{Proceedings of the International AAAI Conference on Web and
+  Social Media}, 2014.
+\newblock \doi{10.1609/icwsm.v8i1.14550}.
+
+\bibitem[Jiang et~al.(2023)Jiang, Yang, Tsirlin, Tang, Dai, and Lin]{Jiang2023}
+Zhiying Jiang, Matthew Y.~R. Yang, Mikhail Tsirlin, Raphael Tang, Yiqin Dai,
+  and Jimmy~J. Lin.
+\newblock "low-resource" text classification: A parameter-free classification
+  method with compressors.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  ACL 2023}, pages 6810--6828, 2023.
+
+\bibitem[Li and Vit{\'a}nyi(2008)]{Li2008}
+Ming Li and Paul Vit{\'a}nyi.
+\newblock \emph{An Introduction to Kolmogorov Complexity and Its Applications}.
+\newblock Springer, 3rd edition, 2008.
+
+\bibitem[Loria and the TextBlob~contributors(2018)]{Loria2018}
+Steven Loria and the TextBlob~contributors.
+\newblock Textblob: Simplified text processing.
+\newblock \url{https://textblob.readthedocs.io/}, 2018.
+
+\bibitem[Maas et~al.(2011)Maas, Daly, Pham, Huang, Ng, and Potts]{Maas2011}
+Andrew~L. Maas, Raymond~E. Daly, Peter~T. Pham, Dan Huang, Andrew~Y. Ng, and
+  Christopher Potts.
+\newblock Learning word vectors for sentiment analysis.
+\newblock In \emph{Proceedings of the 49th Annual Meeting of the Association
+  for Computational Linguistics}, pages 142--150, 2011.
+
+\bibitem[Reber et~al.(2004)Reber, Schwarz, and Winkielman]{Reber2004}
+Rolf Reber, Norbert Schwarz, and Piotr Winkielman.
+\newblock Processing fluency and aesthetic pleasure: Is beauty in the
+  perceiver's processing experience?
+\newblock \emph{Personality and Social Psychology Review}, 8\penalty0
+  (4):\penalty0 364--382, 2004.
+\newblock \doi{10.1207/s15327957pspr0804_3}.
+
+\bibitem[School(2018)]{Colostate2018}
+Colorado State University~Business School.
+\newblock Why negative reviews could have more of an impact, 2018.
+\newblock Online article.
+
+\bibitem[Teahan and Cleary(2000)]{Teahan2000}
+William~J. Teahan and John~G. Cleary.
+\newblock Using english text categorization to predict the programming language
+  of source code.
+\newblock In \emph{Proceedings of the IEEE Data Compression Conference}, 2000.
+
+\bibitem[Zhang et~al.(2015)Zhang, Zhao, and LeCun]{Zhang2015}
+Xiang Zhang, Junbo Zhao, and Yann LeCun.
+\newblock Character-level convolutional networks for text classification.
+\newblock In \emph{Advances in Neural Information Processing Systems 28}, pages
+  649--657, 2015.
+
+\bibitem[Ziv and Lempel(1978)]{Ziv1978}
+Jacob Ziv and Abraham Lempel.
+\newblock Compression of individual sequences via variable-rate coding.
+\newblock \emph{IEEE Transactions on Information Theory}, 24\penalty0
+  (5):\penalty0 530--536, 1978.
+\newblock \doi{10.1109/TIT.1978.1055934}.
+
+\end{thebibliography}
