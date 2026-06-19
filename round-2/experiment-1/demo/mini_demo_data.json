@@ -1,0 +1,26 @@
+{
+  "train": [
+    {"text": "@user @user @user @user @user haha what!?? Um cy young? Roger clemens PEDRO??? wow dude ur a ASSHOLE", "label": "negative"},
+    {"text": "Legal framework for challenging U.S. election by brilliant Larry @user", "label": "positive"},
+    {"text": "@user the reality is that anyone who made a big splash in their teens & is now not in a 20-something or eligible for social security", "label": "negative"},
+    {"text": "So proud of you! Keep up the great work! #motivation", "label": "positive"},
+    {"text": "This is the worst customer service I have ever experienced. Totally unacceptable!", "label": "negative"},
+    {"text": "Amazing product! Exceeded all my expectations. Will buy again!", "label": "positive"},
+    {"text": "I hate when people don't understand how to use turn signals while driving", "label": "negative"},
+    {"text": "Beautiful sunset tonight! Nature never fails to amaze me", "label": "positive"},
+    {"text": "The food was cold and the service was slow. Never coming back here.", "label": "negative"},
+    {"text": "Just finished reading an incredible book. Highly recommend to everyone!", "label": "positive"}
+  ],
+  "test": [
+    {"text": "Why is it so hard to get good help these days? Everything is terrible", "label": "negative"},
+    {"text": "Thank you for the wonderful birthday wishes! Feeling so loved", "label": "positive"},
+    {"text": "This movie was a complete waste of time and money. Boring!", "label": "negative"},
+    {"text": "Congratulations on your graduation! You worked so hard for this", "label": "positive"},
+    {"text": "The weather is awful today. Rain all day long, can't do anything", "label": "negative"},
+    {"text": "Found a great new recipe! Dinner turned out perfect tonight", "label": "positive"},
+    {"text": "My flight got cancelled and now I'm stuck at the airport. Frustrating!", "label": "negative"},
+    {"text": "Best vacation ever! The beach was paradise and the hotel was amazing", "label": "positive"},
+    {"text": "This phone battery dies way too fast. Regretting this purchase.", "label": "negative"},
+    {"text": "Just got promoted at work! Celebrating with friends tonight!", "label": "positive"}
+  ]
+}

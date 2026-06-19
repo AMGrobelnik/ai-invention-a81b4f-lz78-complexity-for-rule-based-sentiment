@@ -1,0 +1,105 @@
+{
+  "datasets": [
+    {
+      "dataset": "imdb",
+      "examples": [
+        {
+          "input": "This movie is not just bad, not just corny, it is repulsive. Something about Daphne, about the creepy call-girl, about the whole damn (and I use the word literally) film radiates a grotesquery that wo...",
+          "output": "negative",
+          "metadata_split": "train",
+          "metadata_row_index": 0
+        },
+        {
+          "input": "The DVD for \"Danaza Macabra\" (Castle of Blood) is very odd. That's because parts of the film are in French with subtitles and the rest is dubbed into English from the French. Sometimes, characters swi...",
+          "output": "positive",
+          "metadata_split": "train",
+          "metadata_row_index": 1
+        },
+        {
+          "input": "I commend pictures that try something different. Many films just seem like re-treads of old ideas, so that is the big reason I so strongly recommend Passport to Pimlico.<br /><br />The movie is set ju...",
+          "output": "positive",
+          "metadata_split": "train",
+          "metadata_row_index": 2
+        },
+        {
+          "input": "This movie is not just bad, not just corny, it is repulsive. Something about Daphne, about the creepy call-girl, about the whole damn (and I use the word literally) film radiates a grotesquery that wo...",
+          "output": "negative",
+          "metadata_split": "train",
+          "metadata_row_index": 0
+        },
+        {
+          "input": "The DVD for \"Danaza Macabra\" (Castle of Blood) is very odd. That's because parts of the film are in French with subtitles and the rest is dubbed into English from the French. Sometimes, characters swi...",
+          "output": "positive",
+          "metadata_split": "train",
+          "metadata_row_index": 1
+        },
+        {
+          "input": "I commend pictures that try something different. Many films just seem like re-treads of old ideas, so that is the big reason I so strongly recommend Passport to Pimlico.<br /><br />The movie is set ju...",
+          "output": "positive",
+          "metadata_split": "train",
+          "metadata_row_index": 2
+        },
+        {
+          "input": "This movie is not just bad, not just corny, it is repulsive. Something about Daphne, about the creepy call-girl, about the whole damn (and I use the word literally) film radiates a grotesquery that wo...",
+          "output": "negative",
+          "metadata_split": "train",
+          "metadata_row_index": 0
+        },
+        {
+          "input": "The DVD for \"Danaza Macabra\" (Castle of Blood) is very odd. That's because parts of the film are in French with subtitles and the rest is dubbed into English from the French. Sometimes, characters swi...",
+          "output": "positive",
+          "metadata_split": "train",
+          "metadata_row_index": 1
+        },
+        {
+          "input": "I commend pictures that try something different. Many films just seem like re-treads of old ideas, so that is the big reason I so strongly recommend Passport to Pimlico.<br /><br />The movie is set ju...",
+          "output": "positive",
+          "metadata_split": "train",
+          "metadata_row_index": 2
+        },
+        {
+          "input": "This movie is not just bad, not just corny, it is repulsive. Something about Daphne, about the creepy call-girl, about the whole damn (and I use the word literally) film radiates a grotesquery that wo...",
+          "output": "negative",
+          "metadata_split": "train",
+          "metadata_row_index": 0
+        },
+        {
+          "input": "The DVD for \"Danaza Macabra\" (Castle of Blood) is very odd. That's because parts of the film are in French with subtitles and the rest is dubbed into English from the French. Sometimes, characters swi...",
+          "output": "positive",
+          "metadata_split": "train",
+          "metadata_row_index": 1
+        },
+        {
+          "input": "I commend pictures that try something different. Many films just seem like re-treads of old ideas, so that is the big reason I so strongly recommend Passport to Pimlico.<br /><br />The movie is set ju...",
+          "output": "positive",
+          "metadata_split": "train",
+          "metadata_row_index": 2
+        },
+        {
+          "input": "This movie was absolutely fantastic! The acting was superb and the plot kept me engaged throughout.",
+          "output": "positive",
+          "metadata_split": "train",
+          "metadata_row_index": 3
+        },
+        {
+          "input": "I wasted two hours of my life on this terrible film. Poor acting, worse plot.",
+          "output": "negative",
+          "metadata_split": "train",
+          "metadata_row_index": 4
+        },
+        {
+          "input": "A masterpiece of cinema. Every scene is perfectly crafted.",
+          "output": "positive",
+          "metadata_split": "test",
+          "metadata_row_index": 0
+        },
+        {
+          "input": "Worst movie ever made. Do not waste your time.",
+          "output": "negative",
+          "metadata_split": "test",
+          "metadata_row_index": 1
+        }
+      ]
+    }
+  ]
+}
