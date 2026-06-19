@@ -1,0 +1,48 @@
+{
+  "dataset_name": "tweet_sentiment",
+  "domain": "social_media",
+  "train": [
+    {
+      "text": "\"QT @user In the original draft of the 7th book, Remus Lupin survived the Battle of Hogwarts. #HappyBirthdayRemusLupin\"",
+      "label": "positive"
+    },
+    {
+      "text": "@user Alciato: Bee will invest 150 million in January, another 200 in the Summer and plans to bring Messi by 2017\"",
+      "label": "positive"
+    },
+    {
+      "text": "@user LIT MY MUM 'Kerry the louboutins I wonder how many Willam owns!!! Look Kerry Warner Wednesday!'",
+      "label": "positive"
+    },
+    {
+      "text": "\"\\\"\"\"\" SOUL TRAIN\\\"\"\"\" OCT 27 HALLOWEEN SPECIAL ft T.dot FINEST rocking the mic...CRAZY CACTUS NIGHT CLUB ..ADV ticket $10 wt out costume $15...\"",
+      "label": "positive"
+    },
+    {
+      "text": "So disappointed in wwe summerslam! I want to see john cena wins his 16th title",
+      "label": "negative"
+    }
+  ],
+  "test": [
+    {
+      "text": "I think I may be finally in with the in crowd #mannequinchallenge  #grads2014 @user",
+      "label": "positive"
+    },
+    {
+      "text": "@user Wow,first Hugo Chavez and now Fidel Castro. Danny Glover, Michael Moore, Oliver Stone, and Sean Penn are running out of heroes.",
+      "label": "negative"
+    },
+    {
+      "text": "Twitter's #ThankYouObama Shows Heartfelt Gratitude To POTUS",
+      "label": "positive"
+    },
+    {
+      "text": "@user @user @user @user @user @user take away illegals and dead people and Trump wins popular vote too.",
+      "label": "negative"
+    },
+    {
+      "text": "#onedirection #harrystyles cute little dance \ud83d\ude09",
+      "label": "positive"
+    }
+  ]
+}

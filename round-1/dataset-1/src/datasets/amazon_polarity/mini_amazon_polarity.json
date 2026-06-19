@@ -1,0 +1,408 @@
+{
+  "dataset_name": "amazon_polarity",
+  "domain": "products",
+  "train": [
+    {
+      "text": "Anyone who likes this better than the Pekinpah is a moron. All the pretty people in this film. Even the Rudy character played by Michael Madsen. This is adapted from a Jim Thompson novel for cryin' out loud! These are supposed to be marginal characters, not fashion models. Though McQueen and McGraw were attractive (but check out McQueen's crummy prison haircut) they were believable in the role. Baldwin and Bassinger seem like movie stars trying to act like hard cases. Action wise, the robbery scene in the Pekinpah version was about 100 times more exciting and suspenseful than anything in this re-make.",
+      "label": "negative"
+    },
+    {
+      "text": "Author seems mentally unstable I know that Tom Robbins has a loyal following and I started the book with high expectations. However, I did not enjoy this book as it was too much work to follow his confused logic. I think that he was under the influence during most of time that he wrote.",
+      "label": "negative"
+    },
+    {
+      "text": "Spaetzle Noodles This type of spaetzle maker is easier to manuveur than the old press kind and much easier on the hands. The difference is that this new spaetzle maker makes smaller noodles than the old. It is great for us elderly that don't have much strength left.",
+      "label": "positive"
+    },
+    {
+      "text": "Cool product until the cats lost it . . . . My cats seemed to be amused to work for their food. One cat would roll the ball with her paws and nose, and the other would walk behind her and eat up whatever fell out -- teamwork! I knew they'd dig this ball because I had already made something similar out of a plastic water bottle before that they liked a lot.A few weeks after getting this, though, the ball was never to be found again. I think it may have rolled down into the dark basement at some point and became one with the clutter.+1 for the adjustable hole sizes. -1 for the mess that happens when trying to put the food in by hand (although this could be solved with a funnel).",
+      "label": "positive"
+    },
+    {
+      "text": "Works as expected I've had no problems running this with my Dell 8200 PC running Windows XP Home Edition which is running an addon USB 2 card, to which this hub (I have the 8 port version) is connected. When I bought it a year ago, I thought that 8 ports would be overkill and that 4 would be adequate, but I bought this unit anyway. Boy was I glad, right now 6 of the 8 are in use.",
+      "label": "positive"
+    },
+    {
+      "text": "Not a bad deal... If you're considering purchasing this movie, I have to figure you're either a huge fan of Sarah Michelle Gellar, or you've seen the movie in the past and really liked it. Either that, or you're like me and you bought it as a gift for someone else, lol (although I did see this in the theater years ago and liked it). So there's not much use in reviewing the movie itself.As for the DVD release...you're not going to get anything in the way of extras (correct me if I'm wrong, but I think there's only a trailer)...but you do get the movie in both widescreen as well as pan and scan. It's of good quality, and it came at a good price (at least it did when I purchased it, lol).",
+      "label": "positive"
+    },
+    {
+      "text": "Nice extras on the 300 DVD Good picture on blu-ray, but I don't know if it would be much different on DVD since the lighting in the movie is pretty dark.",
+      "label": "positive"
+    },
+    {
+      "text": "Too Mellow for Me I've always been a John Mellencamp fan (all the way back to Jack and Diane). It's been a while since I've bought one of his albums, but I bought this one on a whim. I should have read some reviews first. I'm very disappointed. Cuttin' Heads and Peaceful World are ok songs, but there isn't a standout in the bunch. Too many of them are too mellow. Pass on this album if you like the older stuff.",
+      "label": "negative"
+    },
+    {
+      "text": "just what I needed I need t's like this to get through my days at the barn with the horses! They're great and thanks for the quick shipping.",
+      "label": "positive"
+    },
+    {
+      "text": "nasty In 1880s Australia, a lawman makes a deal with a bandit to bring his murderous brother to justice. Simple story about the brutality of frontier life has direction, cinematography and characters reminiscent of the best 60s spaghetti westerns such as \"Once Upon a Time in the West\" (1969). Viewers may also enjoy the similar-styled \"The Three Burials of Melquiades Estrada\" (2005) and \"No Country for Old Men\" (2007).",
+      "label": "positive"
+    },
+    {
+      "text": "Yeah it's pricey, but it's pretty funny... OK, if you aren't a die-hard Family Guy fan, if you don't like the jokes that go on for a little TOO long or the jokes that normally start with \"like that one time when Peter...\" this isn't for you...That aside, if you like all the side gags on family guy where they trail off to something that is completely off subject, this IS for you. To me, this disc is filled with the things Seth couldn't find space for in a Family Guy episode or that the FCC would have a stroke over if they did. I absolutely love Family Guy and the fact that they don't care too much about being politically correct...it's refreshing and this disc stays true to that. It's raunchy, just wrong sometimes, and pretty hilarious all at the same time.I didn't give it 5 stars because it's a little pricey for only an hour's worth of fun. Enjoy!",
+      "label": "positive"
+    },
+    {
+      "text": "Not worth the money I'd give it a 0 if I could.I bought this toy last night after a customer in the store gave it great reviews. This toy is totally ridiculous. My 10 month old loves elmo. He has all of the other elmo dolls (hokey pokey, ymca, chicken dance, tickle me, rock n' roll, even the build a bear elmo) and a hand puppet and loves these. He looked at the tmx like it was having a seizure. He actually crawled away from it and didn't give it a second look. My six year old played with it for maybe a minute and then said \"Does it do anything else?\" Unfortunately, it doesn't. Maybe if it would talk or sing a song it would be better. But you can hardly understand what he is saying and it just isn't entertaining.Buy something better with your $40.00",
+      "label": "negative"
+    },
+    {
+      "text": "You get waht you pay for... I've had mine for just over 6 months, and it crapped out. My Heier lasted 6 years, and I wish I would have spent the extra money to buy one.",
+      "label": "negative"
+    },
+    {
+      "text": "Sensible, average, but not innovative. I'm pleased I bought this book. It provides a sensible and fairly exhaustive overview of the rise of the Nazis. But I'm also disappointed. The book contains nothing unique or original. In terms of fact and interpretation it is safe and conforming, and devoid of originality.Perhaps my standards are unrealistic, or maybe my expectation of a book by Professor Evans, a distinguished academic at Cambridge University, was too high. Either way I don't rate this book as a lofty contribution. It lacks the penetrating analytical touch of Michael Burleigh's similar but better work, and as the first work of a trilogy does not inspire me to think about buying the next two volumes.",
+      "label": "negative"
+    },
+    {
+      "text": "A great comfortable pump. This is a wonderfully comfortable and good looking pump especially if you're looking for a slightly wider toe box. It looks great with a skirt or slacks. My only complaint is that after finally accepting that a wide width is the most comfortable, and kindest to my feet, I can't find my size (6.5 W) in navy. I have the shoe in black. If anyone from Naturalizer is reading this message; how about making more sizes and colors in wide widths available?",
+      "label": "positive"
+    },
+    {
+      "text": "way overated this band is one long joke.aside from three songs this is spinal taps warm up band.i can't believe all the love they get.",
+      "label": "negative"
+    },
+    {
+      "text": "Player is flawed and Digitalway does not support I was given the FL100 as a gift and soon realized the product is flawed. If the player is connected to the PC and the battery dies, it will corrupt the internal memory and the player will not restart after replacing the battery. The player BIOS will initiate, however, once the internal memory check is complete the message \"Battery Low !!!\" will appear and it shuts down. The internal memory can be re-formatted but the player must be on to do so. I contacted Digitalway regarding this and they said, \"If the player purchase date is less than 30 days old and you have the receipt, you may return it to the place of purchase. If the player purchase date is more than 30 days and less than 120 days old and you have the receipt, you may return it to Digitalway.\" The key here is receipt. I also believe they are not really backing this product. I would recommend looking at comparable players and especially the warranty.",
+      "label": "negative"
+    },
+    {
+      "text": "Religious Tone I did not think that this book added a great deal of real information that wasn't just common sense. Also, parts of it reminded me of a religious sermon. This seemed to be out of place and totally unexpected. The book was not what I expected. This book is great for the religious right, not the general public.",
+      "label": "negative"
+    },
+    {
+      "text": "As Muddy As the Whangpu Alas, despite the enticing title and initially engaging, gossipy style, this book bogs down in repetitive trivial details while failing to explore fasciniting topics to which it alludes (such as the international drug trade in the early 20th century and its links to Shanghai and to international arms trading after WWI). Little effort is made to identify individuals as they reappear in subsequent chapters or to present a coherent historical narrative. This is one of the very few books I have ever simply chosen to put down rather than finish.",
+      "label": "negative"
+    },
+    {
+      "text": "The Outsiders The book called The Outsiders was written by a 16 year old girl named S.E. Hinton. It takes place in Oklahoma. The main Greasers are Ponyboy, Dally, Sodapop,Darry, Johnnyboy,and the least ones are Two-bit and Steve. Ponyboy,Darry,and Sodapop are all brothers. They lost there parents in a car accident.Ponyboy,the youngest, and Johnnyboy , who is 16,get in some trouble with the Socs. The Socs are Cherry, Bob, Randy and Marcia. In the book one of the guys dies... but you have the read the book on your own.The lesson in the book, I thought, was that everyone has a rough life. All age groups do and also their classes. This book would be good for ages 11-16. I think this because thats when it starts to get hard for the kids.I like the book over all. The book was kinda slow at first. I liked the book beacause what you learn from it. It has a lot of emotion. I would recomend this book to anyone.",
+      "label": "positive"
+    },
+    {
+      "text": "Global Groove Mask This CD has a great pulsating driving rhythm. The different musical sensations can bring the emotional force to its explosive peek, it isnt your regular \"bump and grind.\" Put this one in your CD player and get into the Global Groove. Loved it. THIS ONE IS A MUST ! ! ! ! Take the mask off and let the rhythm move you.........",
+      "label": "positive"
+    },
+    {
+      "text": "Great book but lesser in the series All of the Shopaholic books are great but this one was not as good as the others. Don't get me wrong it is still worth reading and leaves the impression that there is more to come but it simply does not compare to the first three books.Becky is even more out of control than ever in this installment of the series, when she meets her long lost half sister, who happens to HATE shopping. Becky with her overwhelming desire to be the best sister ever (because she was always an only child) tries so hard to get her new sister (who happens to be everything Becky is not) to be her best friend. The usual hilarity that comes with Becky insues and Kinsella once again provides her reader with great fun and laughs.Ending gives the impression that there is more of Becky's life to come... can't wait for another book in this great series.",
+      "label": "positive"
+    },
+    {
+      "text": "Bad re-edit of a fun film For some reason when it was released in the US this year they decided to edit out most of the comedic scenes and most anything not directly involving Jackie Chan from the earlier release. They also almost totally replaced the soundtrack with music that for the most part didn't match the scene. I like Jackie Chan films but this release was very disapointing. The only up side was that the voices were re-dubbed by I think by the original actors. The action is still good but the older versions of the film are better.",
+      "label": "negative"
+    },
+    {
+      "text": "A greate book for beginners This book has a lot of general information about Tanganyikan cichlids and the way to keep them in a home aquarium. The pictures in the book have a special glossy cover, which makes them look very good. It's an excellent 'first book', but someone interested in information about specific cichlid should search for them in another book.",
+      "label": "positive"
+    },
+    {
+      "text": "Sennheiser Headphones The unit works well and has a nice long cord and was a good value. The ear pads are a bit small.",
+      "label": "positive"
+    },
+    {
+      "text": "Worst DVD Player I have ever owned! This DVD Player looked good online and the reviews at the time were not that bad so I purchased it; however, I can tell you that this is the worst item I have purchased online! This system does not allow you to fast forward/rewind; it only lets you jump from scene to scene. It was manufactured very cheaply; its remote control is a joke. I am so disappointed!",
+      "label": "negative"
+    },
+    {
+      "text": "Marching to the beat of a different drum I posted the book's table of contents - see \"Customer images\" link above - and would like to point out Chapter 4, which discusses \"relational data mining\", also recommending the closely related Chapters 3 and 7. (But not Chapter 2; the authors' mastery of time-series methods - if these do belong to data mining - is not obvious).I am skeptical about applicability of the proposed method, and would consult other books on neural nets or fuzzy logic - or Bayesian belief networks, for example, forgotten here - but others may disagree.Jeers to Kluwer for charging over $100 for a book that really should cost $50-60, yet not hiring a proof-reader. (\"Daiwa Secretes\"!)",
+      "label": "positive"
+    },
+    {
+      "text": "not what I was hoping for I had sampled this at a store once and absolutely loved it. But the bottle I have smells acidic and chemically and the sent hardly last. Wish I had returned it. :(Too bad I normally love their stuff. The seller was prompt and cool and all that.",
+      "label": "negative"
+    },
+    {
+      "text": "Absolutely Horrifying I first read this book at age 10 and could hardly sleep for 3 days. I have re-read it many times since, and I am glad to report that it is still as frightening to the adult as it was for the child. This book teems with terrifying images and situations which I won't describe so as not to spoil the suspense. This was what scared me as a child. What scares the adult on top of this is the emotional collapse of Jack Torrance and his descent into madness. The relationships in the family triad are brilliantly depicted. This is a novel about the horrors of alcoholism, insanity, and child abuse, which are of course only compounded by the supernatural evil these characters become enmeshed in. This is my favorite King novel and I would really like to know what happened to Danny Torrance when he reached adulthood!",
+      "label": "positive"
+    },
+    {
+      "text": "Great Movie A must see, great story and great ending, watch this movie!!!! Perfect for a slow Sunday afternoon or a could day when you are snowed in.",
+      "label": "positive"
+    },
+    {
+      "text": "Great Value This book was very heart touching and blew every thing I thought I knew about the Holocaust out the water. Great read for mature audience.",
+      "label": "positive"
+    },
+    {
+      "text": "This Cd, has absolutely zero point on this earth.... If you are a real house style raver, I suggest you consider buying another CD. I was recommended this CD, and I was disappointed when I heard it....The beats are not innovative at all, and rappers with the same style as Doc Ock, are a dime a dozen. Heed my warning and stay away from this cd at all costs.....",
+      "label": "negative"
+    },
+    {
+      "text": "Not the OEM Unit that was listed! The battery I received is not from APC as the picture and the description suggested and I was not able to return it.",
+      "label": "negative"
+    },
+    {
+      "text": "Good LIve Curtis This album is pretty good. Its very energetic and the mix is good. Some excellent effects on \"if there's hell below\" This is the only Curtis live album I have and I like it alot. Some of the Keyboards sound a little lame, but dont let that stop you from enjoying this album. Excellent rythym section",
+      "label": "positive"
+    },
+    {
+      "text": "Eats Wood! I looked at all the planers. I was going to buy a planer with AMPS being my first concern. With a 3.4 amp motor this planer did not fail once. I put this machine to work on rough cut white oak with the blades full bore, and I got tired before this Hitachi planer. My only wish is the shoe as in all planers in this class was 1 inch longer. With a longer shoe or base this would get 5 stars. At this price you cannot go wrong. Blades are a snap to change, and sharpen. This is a nice machine.",
+      "label": "positive"
+    },
+    {
+      "text": "yummy choc. milk Gave this as a gift and she absolutely loved it. Said it was the best choc drink she ever had. Great gift item.",
+      "label": "positive"
+    },
+    {
+      "text": "Good book - recommended for everyone who manages testing I very much liked the book. Rex Black has written about the process and management side of testing. This makes it an ideal complement to Cem Kaner's \"Testing Computer Software\" (which deals with testing technique) and Boris Beizer's \"Software Testing Techniques\" (which deals with the fundamentals).I found the templates useful, mostly because I never worked my way around Excel to get those metrics in an automated manner. But don't expect them to be replacement for commercial test management tools.This should be a required reading for anyone who plans or manages testing.",
+      "label": "positive"
+    },
+    {
+      "text": "MY FAV BOOK This is by far my fav book. It's very Sex in the City set in the 50's. It's very stylized and true to it's era. Plus if you like reading about show business, than this book will be fascinating. It's a easy fluff read, so don't expect it to be A Tale of Two Cities or anything like that!!! It's fun, just look at the cover...It's pink!",
+      "label": "positive"
+    },
+    {
+      "text": "Not impressed, but I still passed I wanted to post this review, because I must have misunderstood the purpose of these CLEP books. As was indiciated to me today by the testing center, these books are designed to refresh the memories of people who have a good knowledge base of the subject. For individuals such as myself, who haven't taken American History since the early 90's, it didn't prepare me like I expected it to.I studied this book for three months, I had a 95% on each of the practice exams, and I barely passed this CLEP. Passing is passing, I agree, but just keep in mind that this book is a framework. There were so many questions on my exam on topics my clep book didn't touch on. Good thing I like the History channel.Anyway, good refresher, but maybe it's wise to supplement with a cheap high school/college text to be safe.",
+      "label": "negative"
+    },
+    {
+      "text": "untitled I don't want to be harsh. I'm fairly certain that many people put a lot of effort into this book. I just didn't think that it was really a worth the effort though.Essentially the only chapter I found useful was chapter 5. Of course, one chapter doesn't make the book worthwhile though.",
+      "label": "negative"
+    },
+    {
+      "text": "Beautiful singing! I enjoyed this group's previous CD very much, but \"Hoping It Might Be So\" is even better -- the selection of pieces is unusual and the performances are exquisite. \"The Oxen\" is my favorite at the moment, although I also love \"Quem Pastores\" by James Bassi (Why haven't I heard of this composer before? Where have I been?). The choir has a gorgeous sound, and the harp accompaniments are simply lovely. I listen to Christmas music year-round, and I think this CD is going to get a lot of play! I highly recommend \"Hoping It Might Be So\" to anyone who loves fine choral music.",
+      "label": "positive"
+    },
+    {
+      "text": "Cheap copy The disk arrived in a plastic box used for CD's-- not a regular package. The installation directons, printed on the disk itself, state that auto-run will begin when the disk is inserted in the disk drive. Nothing happened and I had to use My Computer and the Setup.exe file to start the installation. About halfway thru the process, it stopped and would not restart. Our son (a computer guy) said the disk is a standard cheap copy type that we can purchase anywhere-- not the usual higher quality that Broderbund would use. Finally we got it installed on the main computer but it would not install on my laptop. I guess it's true-- you get what you pay for. This was cheap enough and that's good. If I have any more problems, I will return it to Amazon.",
+      "label": "negative"
+    },
+    {
+      "text": "Disappointing considering all the high ratings Gruen writes like a woman who is trying to sound like a man. Her word choice and syntax did not ring true and unfortunately the method cost her some in credibility. The book was nothing to write home about and certainly did not rank with anything by Erik Larson. The high ratings from other reviewers are puzzling. The reviews about the movie seem to more accurately reflect the quality of the book.",
+      "label": "negative"
+    },
+    {
+      "text": "Try any other GPS software Currently I have over 20 hours in to trying to understand and use this program. I have paid my computer support person over $125. To date I have used the program and found that the route was there but not the map, the map and not the route. I can't find any voice for my Windows mobile device. You are never sure if you are on the right road. I'm so frustrated with this program! I really feel that I have tried to give it a fair chance.",
+      "label": "negative"
+    },
+    {
+      "text": "Step up to this plate For fans of dub as well as jungle and drum & bass, dubstep is a terrific combination of these genres. And for those new to this type of music, The Roots of Dubstep provides a most fitting introduction as it features cuts by many of the better known musicians making dubstep. Personally, I find this kind of music perfect not only for dancing but also for working behind my computer as it is completely energy inducing, without being unduly distracting. So whether you have to write a paper, paint your house or just want to get down and dance, the Roots of Dubstep will give you the necessary step up.",
+      "label": "positive"
+    },
+    {
+      "text": "Great travel pack This bag is nearly perfect. The straps easily tuck away, which is great when using the pack as carryon luggage for a flight or on a train. The front zips open all the way, so you can access the stuff at the bottom of the pack as easily as the stuff on top. The bag isn't huge, which is its greatest strength and weakness. I just spent two months backpacking in India and the bag still looks new.",
+      "label": "positive"
+    },
+    {
+      "text": "The Diet Cure This book was so encouraging. The self test to identify my levels made this read a keeper. I experimented with one amino acid for evening carb cravings and just like promised... there were immediate results. I haven't eaten at night out of hunger or comfort for 6 weeks. The biology is simple and the comparison of refined grains lending to addiction with not only food but alcohol was a game changer for me. I have a plan for a year's investment in a quality multivitamin and a list of supplements that make sense and are easily obtainable. I believe I will finally be successful in my journey to become healthy.",
+      "label": "positive"
+    },
+    {
+      "text": "Very disappointing Sorry to say, this movie was a disappointment. Harrison Ford was not at his best, I expected better. He did not make a convincing cowboy. The Indians seemed to be rather lame in the movie. The characters were not well developed at the beginning of the story. A boring movie, the plot was not well done. The only decent part of the movie were the special effects, especially when some of the actors did their own stunts.",
+      "label": "negative"
+    },
+    {
+      "text": "As many people in the world I got \"Memory Stick Error\" (C:13:01) on my Sony DSC-W5) Please be carefull, this is not a lie, lot's of people are having problems whit this memory.\"Memory Stick Error\" (C:13:01) on my Sony DSC-W5) rises 1 month after I bought this camera, then suddenly It works again, but I'm expecting to have this problem again. My advice: do not buy it, at least until a new corrected version become available.",
+      "label": "negative"
+    },
+    {
+      "text": "flimsy Although there is metal in it; it is extremely flimsy and does not hold discs securely. A total waste of money!",
+      "label": "negative"
+    }
+  ],
+  "test": [
+    {
+      "text": "Damaged Product The product works fine. I ordered the more exprensive one after I read reviews from others on Amazon. My husband likes the presser. It does a good job pressing his pants. However, it was damaged in the box when we received it. We decided it was too much trouble to send it back. The box was torn and the presser had a chuck knocked out of it.",
+      "label": "positive"
+    },
+    {
+      "text": "A waste of time and money This book is so useless that I feel compelled to write a review to warn others to stay away from this book. A good tutorial should inspire the user on what he/she can do with the product. This book leads you to believe that without talent, the only thing you can do with Illustrator is to draw circles and squares. The book is a disservice to both the reader and to Adobe Illustrator.",
+      "label": "negative"
+    },
+    {
+      "text": "Scattered, Out-of-Date, The authors attempt an ambitious goal of covering many SOA topics - but their resulting text come across as scattered - vague - and lacking a coherent and practical application.Thomas Erl's books are much better written - and have a coherent approch to buliding a solid body of knowledge.For a manager / salesperson wanting a broad overview of SOA - they might be better served by reading Service Oriented Architecture For DummiesService Oriented Architecture For Dummies (For Dummies (Computer/Tech))",
+      "label": "negative"
+    },
+    {
+      "text": "Horrible Customer Service & Product I ordered this product and did recieve then a couple months later it broke. Now Ive done everything I was told to do by by shipping back for a replacement and nothing. They wont return Emails i havent received the replacement part.",
+      "label": "negative"
+    },
+    {
+      "text": "Is the joke on me? I hated this movie. It was so silly. The girl made the cult look more stupid than they already were. Come on? She was from the future??? I can't stop laughing. Maybe, I missed something. I don't think I did. When it first started, I said to myself: What am I watching this for? I thought it was stupid, stupid and then more stupid. I kept watching, trying to make sense of it, but to no avail. I didn't want to waste my $1.00 rental fee.",
+      "label": "negative"
+    },
+    {
+      "text": "Good Product, Easy to use Product was easy to use to assemble.Product supported my weight (180 lb) and was easy to take down. I usually do not have time to work out and this product is great for quick pull up workout.Did notice some scuff marks around the door frame but no damage otherwise.",
+      "label": "positive"
+    },
+    {
+      "text": "How you do to that CD,it's great,not bad 1.Music-I don't like it,but too overplayed for this CD-2/5 stars2.Most Girls-I listen a lot when gets boring-4/5 stars3.Bent-Good rock tune-5/5 stars4.Everything You Want-I like Vertical Horizon,this song is bad-1/5 stars5.Deep Inside Of You-Good punk tune-5/5 stars6.Pinch Me-Great pop tune-5/5 stars7.The Way You Love Me-An ultimate love song,but little annoying-3.5/5 stars8.Here With Me-One of my favorites-5/5 stars9.He Wasn't Man Enough For Me-Good song,but too overplayed-4/5 stars10.What A Girl Wants-Annoying,depressing song-1/5 stars11.Wifey-Not my type of song-2/5 stars12.Dance with Me-My 2nd favorite song-5/5 stars13.Tell Me How You Feel-Not my type of song,again-2/5 stars14.Graduation-Best song on CD!!!!!-6/5 stars15.Breathless-An OK song-3/5 stars16.Fine-OK,I hate Whitney Houston-2/5 stars17.The Little Girl-Good country tune-5/5 stars",
+      "label": "positive"
+    },
+    {
+      "text": "Good product! The other plastic garages and service stations that we have purchased in the past were made so poorly, but this one has really stood the test of time with two kids under the age of five.",
+      "label": "positive"
+    },
+    {
+      "text": "Hey \"A music fan from California, US \" Nirvana only got popular after cobain killed himself? Obviously you're an idiot. Nirvana got mega-popular after \"Smells like teen spirit\" was debuted on MTV, and remained popular up until he killed himself. (at which time there was a spike in popularity, yes, but they were popular before).also some of kurt's lyrics are touching if you don't go in with such a bias.Of course I agree with you that Soundgarden sounds nothing like Nirvana, and I generally like soundgarden's music better.I also agree that Kickstand isn't a very strong song on the album, but I love Spoonman. It's one of my favorite tracks.Overall this is an excelent album, with a very intricate and original dark sound to it.",
+      "label": "positive"
+    },
+    {
+      "text": "One fire... Tracy knows how to get you on your feet and dancing! This is an amazing effort from Tracy Young, a must have for everyone!",
+      "label": "positive"
+    },
+    {
+      "text": "A good cable, but not a good value What matters is using the cable with the highest capability your gear will support (HDMI, DVI, component), and using a decent quality shielded cable. But don't waste your money on \"features\" that won't affect the performance of the cable.",
+      "label": "negative"
+    },
+    {
+      "text": "The dreaded \"Remove the Cassette\" message makes this a non starter. I've used this camera for 6 years. Last year I started getting intermittant \"Remove the Cassette\" messages. I wish I had captured the outstanding three recorded tapes onto my PC then. Instead I recorded another 45 minutes. Now, the error message is solid, no matter which tape I use.My experience with Canon in the past has taught me not to waste the time or the money to bother having this repaired. (I spent about $700 having my previous Canon Camcorder repaired. It worked a few weeks and died again each time.)Having gone to the web to research this bug, I'm convinced fixing this one will be an expensive and time consuming exercise in futility. (6 weeks plus turn around! and Canon won't tell how much the average repair cost is. Check the web .. $500+ )Lesson learned. I'll be shopping a different manufacturer. Sony? JVC? Never again Canon.",
+      "label": "negative"
+    },
+    {
+      "text": "Works Great We make so many awesome things with this dehydrator, including beef jerky, dried bananas, strawberries, apples and we also made fruit roll-ups!",
+      "label": "positive"
+    },
+    {
+      "text": "Couldn't finish it I was on a plane trying to read this and instead picked up the airline magazine. I typically enjoy books about Irish families but this one didn't develop characters that I could become interested in. After half way through the book, I just gave up. I normally have a hard time not finishing a book but I didn't regret it. The style just wasn't for me.",
+      "label": "negative"
+    },
+    {
+      "text": "dont buy polaroid products!!!! i bought FDM-07157 under the cabinet LCD TV in 2006 (DEC). from CIRCUIT CITY who did nothing when the screen went black in april 07. polaroid has the worst customer service i have ever dealt with. cant return it cant fix it. total waste of money!!",
+      "label": "negative"
+    },
+    {
+      "text": "Monotonous, Implausible, Convoluted and Confusing Let Me Call You Sweetheart, by Mary Higgins Clark, read by Bess Armstrong. A convoluted and seemingly implausible tale. Not MHC's best by a long shot, but may have lost a lot in the abridgement, which is pretty awful. Too many characters (and too many of them lawyers!) and the setting jumps between New York or New Jersey -- never quite sure. Finally, Bess Armstrong has a smooth, lovely voice, and excellent pronunciation. But it's kinda like listening to the voice mail lady read you a story, hard to catch the differences in characters, and somehow beautifully read and monotonous too? THE LOTTERY WINNER (read by Edith Bunker!) was a joy to listen to; and The Anastasia Syndrome was a delightfully neat collection - but take a pass on this one.",
+      "label": "negative"
+    },
+    {
+      "text": "No baby yet.. but still hopeful I've been using this product for 3 months. It seems to be pretty accurate with my cycle. I gave it 4 stars because they are a little pricey. You must use the monitor along with this which is very expensive too.",
+      "label": "positive"
+    },
+    {
+      "text": "A tough life I liked the book because it is from a true story and the story is fantastic. However, I disliked the book because it has a pattern of Ruth and James and Ruth and James and so on. Finally, I liked the book because it shows you how tough a woman can be in facing her life.",
+      "label": "positive"
+    },
+    {
+      "text": "Not good I luv Johanna Lindsey books but this was not good at all.I don't think she was awake when she wrote this. I'm just sad bought",
+      "label": "negative"
+    },
+    {
+      "text": "Actually, It's Just the Tip of the Iceberg of Who Joe Is This second CD of his really helped him boost his career and helped to uplift the spirit of the 1990s. Songs like \"All the Things Your Man Won't Do\", \"No One Else Comes Close\", and \"The Love Scene\" help to bring out his depth in R&B as a singer and performer. Personally, the song \"Good Girls\" describes how I felt for most of my life, including the period that the album came out, so as a whole, I give it 4 stars, and it's definitely worth the time and money spent.",
+      "label": "positive"
+    },
+    {
+      "text": "Absolutely one of his best! Ignore Kavity Killer's one-star review; I don't know what his/her problem is with good ol' Lyle. If you have the slightest interest in Lyle, this disk is a great start. It's about as solid as they come, with a nice mix of upbeat and haunting tunes. Pontiac is my favorite of all of Lyle's disks, with Joshua Judges Ruth being a close second. Try it . . . you'll like it.",
+      "label": "positive"
+    },
+    {
+      "text": "Great DVD and instant video combo I bought this dvd for my wife because she wanted a short, effective workout. Right at the bat, Jillian set the bar high at level 1. It's a continuous cardio, strengthen and abs workout for 20 minutes with 5 minutes of warmup and cool down. My wife saw results within a week. She gave the dvd to her mother so now she's workout on Amazon instant video that came with the dvd purchase. I know this workout works because my sister-in-law shed 10 pounds within 1.5 month and she looks great! Good luck on your workout!",
+      "label": "positive"
+    },
+    {
+      "text": "Ruby It was a nice series. I have read Snelling before and enjoyed her books. Her family connection in the series worked well.",
+      "label": "positive"
+    },
+    {
+      "text": "Babble fans - 2 Babble songs here Just a heads up. Two of the songs on 1000 Fires are Babble tunes. If you are a Babble fan, then you probably want to check this out....",
+      "label": "positive"
+    },
+    {
+      "text": "Fun My five year old loves his voice changer. In fact everyone in the house plays with it. I like how you can use multiple switches to make even more that 10 different effects. Fun, but if you have a headache or are bothered by noise then do not buy this! haha",
+      "label": "positive"
+    },
+    {
+      "text": "Did not work as advertised I was overall disappointed with this product, did not see the results and I used it as the label stated. Ended up having to buy another product",
+      "label": "negative"
+    },
+    {
+      "text": "Excellent book Very outstanding book, helped a ton of things that are just \"assumed\" elsewhere(datasheets, app notes and the like). While it's heavily based in math the book is presented in a very clear way where the math not at the forefront.",
+      "label": "positive"
+    },
+    {
+      "text": "Concentrates On Tidbits Of Fact Most Of Us Want To Know Although it rarely advances too deeply into the lives of the two-hundred individuals featured and I did find a typo or two and the occasional miscued date, the facts presented are always interesting and significant to whom these people were and why they deserve to be remembered today. A very good, informative, light read for a wide audience. Never slow-moving, not over anyone's head, and should prove educational for nearly any reader. Nicely illustrated; well-chosen selection of a cross section of human society throughout time. Worth reading and worth owning. Also makes a good gift choice for the history buff on your shopping list.",
+      "label": "positive"
+    },
+    {
+      "text": "Great picture! I originally had my Xbox 360 hooked up through component but my HDTV only has space for one component connection and I needed to hook up my cable box to it so I decided to purchase the VGA cable. I have an Olevia 232T and I think the image is clearer and brighter through the VGA cable than through component. I know some people complain about \"wash-out\" but I felt the image was much more vibrant and vivid through VGA. If you think the image is too bright, you can always turn down the brightness in the game. Great cable and great picture for the price!",
+      "label": "positive"
+    },
+    {
+      "text": "Finally, a great hole punch I have been using a terrible hole puncher at school for the past ten years. (hole guide shifting after every punch, a deluge of holes raining upon the classroom floor, fractured palms, etc.) After rejecting the new gold punch, I went on-line to find one that would work. Carl works. If you need some holes punched, I'm the guy to see. This punch smoothly and efficaciously handles 40 sheets - maybe more - with an ease that makes me teary-eyed. Buy it and eat the bill.",
+      "label": "positive"
+    },
+    {
+      "text": "The price of the product I was looking to order this product but after reading the reviews there was a change of mind. A 6 pack would have been OK for the price but almost $50.00 for one Garnier is ridiculous. Is this price correct????",
+      "label": "negative"
+    },
+    {
+      "text": "A World of Earrings The book is beautifully illustrated with full color photos that are exceptional in quality. I think it would have been helpful to show how some of the earrings are actually worn, either on a mannequin head or a real person. One other feature I found inconvenient was the location of the descriptive text , which is clear at the back of the book, instead of under or in back of each illustration. The reader has to keep flipping back and forth between the full-sized photo in front and the text at the end. However, it still provides a good general survey of ethnic earrings from Africa, Asia and the Americas.",
+      "label": "positive"
+    },
+    {
+      "text": "Wish I could give it 0 stars... Save your money. It is awful and boring and a shame developers even wasted their time on it.",
+      "label": "negative"
+    },
+    {
+      "text": "Just So So This book was disappointing, it only give a sample of Bible prophecy. Plus most of these studies of the are messianic. Also the author spend too much time give references to other Biblical authors - which is not needed. If you are a beginning Bible student this would be okay for you.",
+      "label": "negative"
+    },
+    {
+      "text": "Great story in a well-worn setting;(post-apocalyptic world.) I really enjoyed this story as I have others of Ingrid's. The story and the characters remain the meat of the book, instead of incidental 'buy me' sex scenes as so many sci-fi writers (or their publishers) seem to feel are required. There are some good twists to the well-worn setting of a post-apocalyptic world (e.g. the mutations being part of purposeful experiments as opposed to random consequences of the nuclear winter) as well as very interesting character development and story line. However, the ending seemed a little rushed (thus the four stars). Though there were obvious strings left dangling for its sequel(s), too many subplot conflicts were resolved quickly and neatly. Still a great 'read' and I plan to read the sequel!",
+      "label": "positive"
+    },
+    {
+      "text": "No support for Mac This looks like a fun game with a really reasonable price. Problem is, on my iMac running 10.6.8, the game does not start! Even worse, my requests for help, on their website as suggested, and by email, go ignored. I printed the manual as suggested... no help. I went to their forums as suggested... they were in a language I don't understand. On one help page, someone complains about this issue, and is told to use a wired mouse... no help there, as I'm using a wired mouse. It seems that the hardest puzzle one must solve is how to start the program. The price may have looked reasonable, but I feel ripped off.",
+      "label": "negative"
+    },
+    {
+      "text": "A Box of Junk This set is a box of useless trash. Amazon, you shouldn't allow this sub-quality crap on your site. It is bad for business.",
+      "label": "negative"
+    },
+    {
+      "text": "This was just what I was looking for! I am new to networking and wanted to learn more about security and hacking. I have been especially interested in exploring the hacking world and learning a few neat tricks. This book has made me aware of the methods a hacker uses, and has allowed me to experiment with these methods as well. I found the book to be very valuable for beginner and beyond, but i am now looking for a book that goes even more in depth...if possible.if you want to learn more about hacking and security... buy it! If you already are a pro... you will still benifit by it, but may want to seek something more.",
+      "label": "positive"
+    },
+    {
+      "text": "Factual Errors in Stalin: The Court of the Red Tsar I will not go into any details in this first review, but one very important oversight by the editors was the overlooking of the errors in factual information such as dates, names, etc. If a teacher were to use this book in a history class the students would be subject to a wealth of misinformation.",
+      "label": "negative"
+    },
+    {
+      "text": "Must have Any Crowes fan must have a copy of this!! I have both VHS and DVD!!! Kind of funny seeing the boys back in the day.",
+      "label": "positive"
+    },
+    {
+      "text": "Toy never worked properly I had a hard time putting the arcade up. I was not pleased with the product, because 3 people was trying to put the game up. We called and called and Toys R us said tha we could not return it, due to fact that we didn't have a reciept. My son was very dissapointed, because that toy was at the top of his Christmas List. We have been advocate toy buyers from Toy's R us for over 20 years. And several times I have been displeased with the service and some of the product sold by the Lansing, IL store, you pay a lot of money for things and find out that the products were not what they appear to be on t.v.",
+      "label": "negative"
+    },
+    {
+      "text": "A story about kings and knights The story's setting takes place in mideavltimes when king Arthur was king. The main charters are king Arthur,Guenever,Gawian,and Lanccalot.I had A report due and my teacher told me that this was A good book to reed.the story is about king Aurthur and his adventuer's with the knights of the round table. It also tells you about how it was to be A knight at the round table.I think it was A good book overall. The book was A good book because it told you about all the knights and what it took to be A knight. The best part of the story was when Gawain died.the worst part of the book was the begining because it wa relly boring.I wold only recemend the book to people whoare in to histoy and mideveltimes",
+      "label": "positive"
+    },
+    {
+      "text": "What kind of nonsense is this? I am not referring to the CD but the review by Herbert S. Philbrick. This guy has heard one track on a radio program and he puts in a 3 star place holder? People make buying desicions based on these reviews. Herbert S. Philbrick needs a dose of responsibility....",
+      "label": "negative"
+    },
+    {
+      "text": "I cannot believe this was ever released If you must hear Bette doing standards go see the movie For The Boys and buy the soundtrack, but this cd is just in bad taste. This is almost as bad as Barry Manilow's Sinatra tribute cd. Midler sings a dozen of clooney's biggest hits and makes them all into trendy pop tunes adding hip hip, and tyechno dance beats, and in so many ways is disrespecting the memory of a laegendary woman. I'm sure bette wishes she could take this back, but it's too late. This cd is not worth hearing once, let alone repeated listenings. This went straight into my waste basket. What a shame Midler might have hired a jazz combo and made a classy effort at tributing Clooney properly instead you have this mess of overproduced comemrcialism. I've never been so disapointed.",
+      "label": "negative"
+    },
+    {
+      "text": "bumping funk the title cut is still a Bumping track that will throw your head out of wack in a good way. who took the funk is a banger as well. dug the vocals and overall instrumentation on this set. Grooves are solid on here and Instant Funk is a Band that is slept on.",
+      "label": "positive"
+    },
+    {
+      "text": "Down with the up rules! The rules were interpreted - the initial game played. Will probably never play again. You are crossing arms with your opponent to place the drawn tile at the head of their column. It's messy and screws up response times.",
+      "label": "negative"
+    },
+    {
+      "text": "Useless! It's been years since I had a hand-vac, so I spent a lot of time researching the ones available. I decided on this one after reading the reviews, it appeared to be the best candidate for what I needed. Unfortunately, it hasn't been worth the purchase AT ALL! The opening is so small, that anything larger or longer than a cheerio is impossible to pick up. The design of the internal components make it even harder to just keep the debris inside the canister! To top it all off, the device only stays charged for seven minutes according to the manual -- I haven't been able to get it to function well after just a few minutes. There's so many negatives, instead of listing them all -- take my word that this product is a total waste.I've decided to just buy another stand vacuum to keep in place of where we were storing this hand-vac & use the stand vacuum's hose. This hand-vac is a definite inconvenience instead of connivence.",
+      "label": "negative"
+    },
+    {
+      "text": "excellent read Loved it. The characters are evolving with each book and I am really beginning to care what happens to them.",
+      "label": "positive"
+    },
+    {
+      "text": "needle threader I love these things, if only I'd stop dropping them because they are hard to find. They are the only needle threaders that work on my serger and they are thin enough to slide into the needle easily. I've collected a lot of similar items but threw them all out.",
+      "label": "positive"
+    },
+    {
+      "text": "Like Having Your Own Chicken Coop It's so nice to have \"eggs\" available whenever you need them. I like to spontaneously bake things, and in the past have been bummed out to find that I've run out of eggs. These dried egg whites keep indefinitely in your pantry, so you never have to go without \"eggs\" again. They are also handy when you create your own pancake or waffle mix in bulk or gift giving. Bob's Red Mill brand is always excellent and I've never been dissappointed.",
+      "label": "positive"
+    }
+  ]
+}

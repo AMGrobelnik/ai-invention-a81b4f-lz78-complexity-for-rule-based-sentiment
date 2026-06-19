@@ -1,0 +1,48 @@
+{
+  "dataset_name": "amazon_polarity",
+  "domain": "products",
+  "train": [
+    {
+      "text": "Anyone who likes this better than the Pekinpah is a moron. All the pretty people in this film. Even the Rudy character played by Michael Madsen. This is adapted from a Jim Thompson novel for cryin' ou...",
+      "label": "negative"
+    },
+    {
+      "text": "Author seems mentally unstable I know that Tom Robbins has a loyal following and I started the book with high expectations. However, I did not enjoy this book as it was too much work to follow his con...",
+      "label": "negative"
+    },
+    {
+      "text": "Spaetzle Noodles This type of spaetzle maker is easier to manuveur than the old press kind and much easier on the hands. The difference is that this new spaetzle maker makes smaller noodles than the o...",
+      "label": "positive"
+    },
+    {
+      "text": "Cool product until the cats lost it . . . . My cats seemed to be amused to work for their food. One cat would roll the ball with her paws and nose, and the other would walk behind her and eat up whate...",
+      "label": "positive"
+    },
+    {
+      "text": "Works as expected I've had no problems running this with my Dell 8200 PC running Windows XP Home Edition which is running an addon USB 2 card, to which this hub (I have the 8 port version) is connecte...",
+      "label": "positive"
+    }
+  ],
+  "test": [
+    {
+      "text": "Damaged Product The product works fine. I ordered the more exprensive one after I read reviews from others on Amazon. My husband likes the presser. It does a good job pressing his pants. However, it w...",
+      "label": "positive"
+    },
+    {
+      "text": "A waste of time and money This book is so useless that I feel compelled to write a review to warn others to stay away from this book. A good tutorial should inspire the user on what he/she can do with...",
+      "label": "negative"
+    },
+    {
+      "text": "Scattered, Out-of-Date, The authors attempt an ambitious goal of covering many SOA topics - but their resulting text come across as scattered - vague - and lacking a coherent and practical application...",
+      "label": "negative"
+    },
+    {
+      "text": "Horrible Customer Service & Product I ordered this product and did recieve then a couple months later it broke. Now Ive done everything I was told to do by by shipping back for a replacement and nothi...",
+      "label": "negative"
+    },
+    {
+      "text": "Is the joke on me? I hated this movie. It was so silly. The girl made the cult look more stupid than they already were. Come on? She was from the future??? I can't stop laughing. Maybe, I missed somet...",
+      "label": "negative"
+    }
+  ]
+}

@@ -1,0 +1,499 @@
+{
+  "datasets": [
+    {
+      "dataset": "imdb",
+      "examples": [
+        {
+          "input": "What is the story what is it on the screen. At first I must say, do not touch this movie, it is for your own best (it sucks). And really what is the story, in the beginning it seems okay but after ten",
+          "output": "negative",
+          "metadata_complexity": "0.6011560693641619",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "By watching this film you will not only explore the \"Turkish music\" but will also explore the city of Istanbul with wonderful pictures and scenes from all over the important regions of the city.There ",
+          "output": "positive",
+          "metadata_complexity": "0.592",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "haggard doesn't even need to be graded, since it was never designed to be graded like Oscar-winning movies are and it was never intended to have won an Oscar (obviously). if you just look at some of t",
+          "output": "positive",
+          "metadata_complexity": "0.5683615819209039",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "Army private Gene Kelly, who's also a talented trapeze aerialist, comes under fire for doing daring stunts without a net and alienating his high-wire cohorts; meanwhile, there's an elaborate 'camp sho",
+          "output": "negative",
+          "metadata_complexity": "0.6170634920634921",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "I saw this back in 99 and I remember loving it. Still to this day I can remember parts of the movie in my head, like the slanted pitch. Unfortunately from 99 - now I could never remember the name of t",
+          "output": "positive",
+          "metadata_complexity": "0.5673431734317343",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "This film does not have the outstanding visuals that American Beauty or The Ice Storm offered and because it was made after those films, it cannot be marked as very original either: the music, though ",
+          "output": "positive",
+          "metadata_complexity": "0.5378548895899053",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "I am ashamed to admit in public that I even held the cover of this movie once! This is an absolute reason why one should research on the movie before seeing it! The 'makers' of this movie have called ",
+          "output": "negative",
+          "metadata_complexity": "0.586527293844367",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "I have to admit that when I first heard about the Apocalypse film it was a worry.<br /><br />I mean, they have a lot to live up to, don't they? When they first did a stage show they won the Perrier aw",
+          "output": "positive",
+          "metadata_complexity": "0.46516310914216674",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "Why is Guy working for Buddy? Probably because Ari was not around in 1995. Why does Dawn want to be with Guy? For access to Buddy. Why does she stay with Guy? I am not sure.<br /><br />There are bunch",
+          "output": "negative",
+          "metadata_complexity": "0.5604838709677419",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "Here's one of the more pleasingly scuzzy 70's blaxploitation grindhouse items; it's a pervasively low-rent pimp opus which comes across like a sleazier version of \"The Mack.\" John Daniels, the studly ",
+          "output": "positive",
+          "metadata_complexity": "0.5699958211450062",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "Well I guess I know the answer to that question. For the MONEY! We have been so bombarded with Cat In The Hat advertising and merchandise that we almost believe there has to be something good about th",
+          "output": "negative",
+          "metadata_complexity": "0.5859820700896495",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "Watched this film with an audience of....5 in total! Had a choice between Lakshya and Asambhav...(realized then I should have gone for Lakshya). A typical plot...India v Pakistan..but just isn't crick",
+          "output": "negative",
+          "metadata_complexity": "0.6074498567335244",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "Stan Laurel regarded PUTTING PANTS ON PHILIP as the first true' L&H film. THE SECOND HUNDRED YEARS was the first 'official' L&H film, but this was the one where Stan completely resigned himself not o",
+          "output": "positive",
+          "metadata_complexity": "0.547840349917988",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "Very sadly, I can relate to this movie, as I'm 17, and have yet to be kissed, so I really feel for Josie. It's been a while since seeing this film, but to write this review I re-watched it, and rememb",
+          "output": "positive",
+          "metadata_complexity": "0.5848434925864909",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "I must admit I did enjoy the earlier episodes, but probably because I was younger and stupid at the time. I was sorta excited about the return of family guy until I saw the \"new\" crap they were puttin",
+          "output": "negative",
+          "metadata_complexity": "0.5714285714285714",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "Okay maybe it was because I happen to be in Yangchun China when I saw this movie. Maybe it was because I finally had something on TV I could understand or at least read the subtitles, or maybe it was ",
+          "output": "positive",
+          "metadata_complexity": "0.48633879781420764",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "Like the other guy said It sux , you can count the words that have been said in that entire movie on one of your hands, Too nudity , she got naked like 7 or 8 times in a 1 and a half , well past the n",
+          "output": "negative",
+          "metadata_complexity": "0.554093567251462",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "More of a Frisbee like turtle with fangs that go up like a wart hog. More battles with people in bird suits that look like people in bird suits. A ping pong ball space ship. Two naughty boys who know ",
+          "output": "negative",
+          "metadata_complexity": "0.5507537688442211",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "Like many other people, I've heard about \"more\" and I wanted to watch it due to the music that was composed by Pink Floyd. I must say that I was truly disappointed, not because of the music but the mo",
+          "output": "negative",
+          "metadata_complexity": "0.5568513119533528",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "This is probably the worst film I have ever seen; it makes Plan 9 from Outer Space look wonderful. The acting is wooden, the plot silly and the SFX non-existent. The only good thing about it is the fa",
+          "output": "negative",
+          "metadata_complexity": "0.6837060702875399",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        }
+      ]
+    },
+    {
+      "dataset": "amazon_polarity",
+      "examples": [
+        {
+          "input": "Great History This book is listed as Elementary Reading for the [...] Hidden Gems Newsletter. It provides great historical reading about the Davis family. Before the reading the book I had no idea who",
+          "output": "positive",
+          "metadata_complexity": "0.6086956521739131",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "These Guys Are Passing For Heroes? I'm normally all for a good yarn full of swashbucklers and adventure, but this one just didn't sit well with me. I found the protagonists to be less than sympathetic",
+          "output": "negative",
+          "metadata_complexity": "0.6103896103896104",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "TOO BASIC The title misrepresents the content; the information is limited and over stated. If you don't already know these conventions from the most basic viewing of films, this book won't help.",
+          "output": "negative",
+          "metadata_complexity": "0.7628865979381443",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "Fantastic Show... ...But an absurd DVD. As virtually everyone else has said, the Cartoon Network really needs to put out full seasons. People across all demographics love this show! It is patently rid",
+          "output": "negative",
+          "metadata_complexity": "0.6870967741935484",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "disappointing While this book has good parts, they are completely countered by Pinker's theory that the humans are the exact OPPOSITE of a blank slate. I would highly recommend, for an alternate and m",
+          "output": "negative",
+          "metadata_complexity": "0.7264957264957265",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "design flaws abound I got these for Christmas (not from Amazon) and they broke after my second use. The folding hinges are poorly designed and crack very easily. I tried to return them to Philips but ",
+          "output": "negative",
+          "metadata_complexity": "0.6666666666666666",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "Panasonic Pore Cleaner???????? I have had this product for about a year now. And it worked great until about 6 months ago. The part of the pore cleaner that sprays a mist of water quit working. It did",
+          "output": "negative",
+          "metadata_complexity": "0.6260387811634349",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "Good game, good have been a lot better To start off, I really like this game. It is fun and entertaining, and still keeps me amused after I have beaten it. But it could have been much better if there ",
+          "output": "positive",
+          "metadata_complexity": "0.6076642335766423",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "Better than Spike or Quentin The book is truly amazing. I have bough 15-20 books on filmmaking, directing and screenwriting. I thought I new something. Then I bought Dov's book. I couldn't put it down",
+          "output": "positive",
+          "metadata_complexity": "0.6342592592592593",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "Written by a student who hasn't yet gotten over school I don't typically not finish a book, but this one holds the top honor for me of unfinished books. Not only did I not finish it, but I remember ex",
+          "output": "negative",
+          "metadata_complexity": "0.6128472222222222",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "Addicting! Well-written for a newbie reader I've never been much of a reader, probably having read about 10-20 books in my life, but this was impossible to put down. This book was so addicting that I ",
+          "output": "positive",
+          "metadata_complexity": "0.5973813420621932",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "Bad copy If you're looking for a decent copy of this book, pick a different version. This one (or at least the one I received) was clearly photocopied from the original and then bound...cheaply. The p",
+          "output": "negative",
+          "metadata_complexity": "0.6182336182336182",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "Pretty much useless You would have thought that with the power of a PC behaind it this will be the most capable navigation program. Unfortunately, it is by far the worst navigation software ever devis",
+          "output": "negative",
+          "metadata_complexity": "0.5925349922239502",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "A Great Idea but zero support A wonderful idea, and when it works it is really neat. But I had a heck of a time setting it up, had to throw out a perfectly good digital phone (it won't work with a dig",
+          "output": "negative",
+          "metadata_complexity": "0.564206268958544",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "Great Insight This is one of the best how-to books on the market regarding the habits and lifestyles of the North American Elk. Easy read, with numerous examples of what to do and what not to do. The ",
+          "output": "positive",
+          "metadata_complexity": "0.6625386996904025",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "Patriot Games Review I think Patriot Games was another great book from Tom Clancy. The book would pose many questions about what would happen or who someone was and Clancy would slowly answer them thr",
+          "output": "positive",
+          "metadata_complexity": "0.5273573923166472",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "It's what I expected I'm not air filter aficionado. I needed air filters for my home and these work. I can't say there is any specific noticeable difference--there shouldn't be. They were what I expec",
+          "output": "positive",
+          "metadata_complexity": "0.6696428571428571",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "The King's Sister is Gold The King's Sister is an instant classic filled with love, mystery and tradgedy in the most romantic and mystical setting ever depicted in text. For every girl who's ever drea",
+          "output": "positive",
+          "metadata_complexity": "0.5973333333333334",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "Bloated, convoluted, and ultimately, boring Wow, I have no idea what movie the 5-star reviewer saw but it wasn't Casshern. Absolutely nothing in this movie \"makes Neo's battle against the multitude of",
+          "output": "negative",
+          "metadata_complexity": "0.5936454849498328",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "One of the best Wallace biographies Peter Reese's book is highly recommended because:a) It is divided into logical sections.b) It covers both the life of Wallace and the aftermath right up to the date",
+          "output": "positive",
+          "metadata_complexity": "0.5548216644649934",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        }
+      ]
+    },
+    {
+      "dataset": "tweet_sentiment",
+      "examples": [
+        {
+          "input": "@user @user @user @user @user haha what!?? Um cy young? Roger clemens PEDRO??? wow dude ur a ASSHOLE",
+          "output": "negative",
+          "metadata_complexity": "0.84",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "Legal framework for challenging U.S. election by brilliant Larry @user",
+          "output": "positive",
+          "metadata_complexity": "1.0571428571428572",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "@user the reality is that anyone who made a big splash in their teens & is now not in a 20-something or eligible for social security",
+          "output": "negative",
+          "metadata_complexity": "0.8181818181818182",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "When do you suppose someone will tell him that China is not a party to TPP?",
+          "output": "negative",
+          "metadata_complexity": "1.0",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "I think my boss and her family just won the #mannequinchallenge.",
+          "output": "positive",
+          "metadata_complexity": "1.078125",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "'Long Live Fidel!': Castro's Ashes Interred in Cuba",
+          "output": "positive",
+          "metadata_complexity": "1.1568627450980393",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "The externalities when Linux Foundation joins #microsoft GNUOpponents of #swpatsVictims of Microsoft's patent extortion campaignTruth",
+          "output": "negative",
+          "metadata_complexity": "0.8421052631578947",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "@user @user @user losing their cool because the refs are one sided. 😡",
+          "output": "negative",
+          "metadata_complexity": "0.9444444444444444",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "@user @user looks like Grundstrom is winning the Cy Young.",
+          "output": "positive",
+          "metadata_complexity": "1.0689655172413792",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "IVE ONLY SEEN FIVE MINS OF DAVID BLAINE AND MAN THIS GUY IS WICKED CRAZY COOL",
+          "output": "positive",
+          "metadata_complexity": "0.935064935064935",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "Oh my gosh it's David Blaine!! stephanie__719",
+          "output": "positive",
+          "metadata_complexity": "1.1777777777777778",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "@user @user @user Well by that definition. Obamacare is Fascism. To a degree.",
+          "output": "negative",
+          "metadata_complexity": "0.961038961038961",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "First off : the Leonard Cohen music.. oh my gosh",
+          "output": "positive",
+          "metadata_complexity": "1.1666666666666667",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "Lesson 3 of Being Extra: have a rule that you must wear sunglasses in fluorescent lighting and blame it on being \"90's\" #MariahsWorld",
+          "output": "negative",
+          "metadata_complexity": "0.8721804511278195",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "My Mom is living in a senior home facility has no sense of anything, and found a voter registration form today in her room. WTF....",
+          "output": "negative",
+          "metadata_complexity": "0.8244274809160306",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "Didn't take long for the Clinton Foindation money train to derail. Zero Hedge",
+          "output": "negative",
+          "metadata_complexity": "0.987012987012987",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "You just wasted petrol getting lost to pick me up #uber",
+          "output": "negative",
+          "metadata_complexity": "1.0909090909090908",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "PHILOSOPHICAL AND SPIRITUAL REASON BREXIT IS A GREAT THING  New blog article at",
+          "output": "positive",
+          "metadata_complexity": "1.0253164556962024",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "@user @user #NeverRomney #DrainTheSwamp Romney, Reince is the swamp",
+          "output": "negative",
+          "metadata_complexity": "0.9701492537313433",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "Beauty And The Beast Has Set Our Expectations High! #beautyandthebeast #disney",
+          "output": "positive",
+          "metadata_complexity": "1.0",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+23:36:10|INFO   |Set memory limit to 495.4 GB
+23:36:10|INFO   |Processing dataset: imdb
+23:36:10|INFO   |Loading dataset from /ai-inventor/aii_data/runs/run_z9NYEEEab4ex/3_invention_loop/iter_1/gen_art/gen_art_dataset_1/datasets/imdb/full_imdb_balanced.json
+23:36:10|INFO   |Loaded imdb: train=25000, test=1000
+23:36:10|INFO   |Computing LZ78 complexities for 2000 training examples...
+23:36:10|INFO   |Computed training complexities in 0.06s
+23:36:10|INFO   |Train complexity stats - Pos: mean=0.5587, std=0.0517
+23:36:10|INFO   |Train complexity stats - Neg: mean=0.5633, std=0.0555
+23:36:10|INFO   |Computing LZ78 complexities for 1000 test examples...
+23:36:10|INFO   |Computed test complexities in 0.03s
+23:36:10|INFO   |Statistical test: U=124826.00, p=0.971089, significant=False
+23:36:10|INFO   |Cliff's delta: -0.0013
+23:36:10|INFO   |Fitting LZ78 classifier...
+23:36:10|INFO   |Derived threshold: 0.5610, direction: lower
+23:36:10|INFO   |Running LZ78 classifier on test data...
+23:36:10|INFO   |LZ78 accuracy: 0.4920
+23:36:10|INFO   |Running VADER baseline...
+23:36:11|INFO   |VADER accuracy: 0.6850 (time: 1.00s)
+23:36:11|INFO   |Running TextBlob baseline...
+23:36:12|INFO   |TextBlob accuracy: 0.6880 (time: 0.66s)
+23:36:12|INFO   |Running NPC-gzip baseline...
+23:36:12|INFO   |NPC-gzip: processing example 0/1000
+23:36:12|INFO   |NPC-gzip: processing example 100/1000
+23:36:12|INFO   |NPC-gzip: processing example 200/1000
+23:36:12|INFO   |NPC-gzip: processing example 300/1000
+23:36:12|INFO   |NPC-gzip: processing example 400/1000
+23:36:12|INFO   |NPC-gzip: processing example 500/1000
+23:36:12|INFO   |NPC-gzip: processing example 600/1000
+23:36:12|INFO   |NPC-gzip: processing example 700/1000
+23:36:12|INFO   |NPC-gzip: processing example 800/1000
+23:36:12|INFO   |NPC-gzip: processing example 900/1000
+23:36:12|INFO   |NPC-gzip accuracy: 0.5090 (time: 0.10s)
+23:36:12|INFO   |Processing dataset: amazon_polarity
+23:36:12|INFO   |Loading dataset from /ai-inventor/aii_data/runs/run_z9NYEEEab4ex/3_invention_loop/iter_1/gen_art/gen_art_dataset_1/datasets/amazon_polarity/full_amazon_polarity_balanced.json
+23:36:13|INFO   |Loaded amazon_polarity: train=49862, test=1000
+23:36:13|INFO   |Computing LZ78 complexities for 2000 training examples...
+23:36:13|INFO   |Computed training complexities in 0.02s
+23:36:13|INFO   |Train complexity stats - Pos: mean=0.6622, std=0.0877
+23:36:13|INFO   |Train complexity stats - Neg: mean=0.6477, std=0.0826
+23:36:13|INFO   |Computing LZ78 complexities for 1000 test examples...
+23:36:13|INFO   |Computed test complexities in 0.01s
+23:36:13|INFO   |Statistical test: U=140669.00, p=0.000448, significant=True
+23:36:13|INFO   |Cliff's delta: 0.1284
+23:36:13|INFO   |Fitting LZ78 classifier...
+23:36:13|INFO   |Derived threshold: 0.6549, direction: higher
+23:36:13|INFO   |Running LZ78 classifier on test data...
+23:36:13|INFO   |LZ78 accuracy: 0.5420
+23:36:13|INFO   |Running VADER baseline...
+23:36:13|INFO   |VADER accuracy: 0.7260 (time: 0.35s)
+23:36:13|INFO   |Running TextBlob baseline...
+23:36:13|INFO   |TextBlob accuracy: 0.7060 (time: 0.25s)
+23:36:13|INFO   |Running NPC-gzip baseline...
+23:36:13|INFO   |NPC-gzip: processing example 0/1000
+23:36:13|INFO   |NPC-gzip: processing example 100/1000
+23:36:13|INFO   |NPC-gzip: processing example 200/1000
+23:36:13|INFO   |NPC-gzip: processing example 300/1000
+23:36:13|INFO   |NPC-gzip: processing example 400/1000
+23:36:13|INFO   |NPC-gzip: processing example 500/1000
+23:36:13|INFO   |NPC-gzip: processing example 600/1000
+23:36:13|INFO   |NPC-gzip: processing example 700/1000
+23:36:13|INFO   |NPC-gzip: processing example 800/1000
+23:36:13|INFO   |NPC-gzip: processing example 900/1000
+23:36:13|INFO   |NPC-gzip accuracy: 0.5340 (time: 0.08s)
+23:36:14|INFO   |Processing dataset: tweet_sentiment
+23:36:14|INFO   |Loading dataset from /ai-inventor/aii_data/runs/run_z9NYEEEab4ex/3_invention_loop/iter_1/gen_art/gen_art_dataset_1/datasets/tweet_sentiment/full_tweet_sentiment_balanced.json
+23:36:14|INFO   |Loaded tweet_sentiment: train=14810, test=1000
+23:36:14|INFO   |Computing LZ78 complexities for 2000 training examples...
+23:36:14|INFO   |Computed training complexities in 0.01s
+23:36:14|INFO   |Train complexity stats - Pos: mean=0.9337, std=0.0891
+23:36:14|INFO   |Train complexity stats - Neg: mean=0.9073, std=0.0801
+23:36:14|INFO   |Computing LZ78 complexities for 1000 test examples...
+23:36:14|INFO   |Computed test complexities in 0.01s
+23:36:14|INFO   |Statistical test: U=170528.00, p=0.000000, significant=True
+23:36:14|INFO   |Cliff's delta: 0.3671
+23:36:14|INFO   |Fitting LZ78 classifier...
+23:36:14|INFO   |Derived threshold: 0.9205, direction: higher
+23:36:14|INFO   |Running LZ78 classifier on test data...
+23:36:14|INFO   |LZ78 accuracy: 0.6380
+23:36:14|INFO   |Running VADER baseline...
+23:36:14|INFO   |VADER accuracy: 0.7270 (time: 0.09s)
+23:36:14|INFO   |Running TextBlob baseline...
+23:36:14|INFO   |TextBlob accuracy: 0.6090 (time: 0.10s)
+23:36:14|INFO   |Running NPC-gzip baseline...
+23:36:14|INFO   |NPC-gzip: processing example 0/1000
+23:36:14|INFO   |NPC-gzip: processing example 100/1000
+23:36:14|INFO   |NPC-gzip: processing example 200/1000
+23:36:14|INFO   |NPC-gzip: processing example 300/1000
+23:36:14|INFO   |NPC-gzip: processing example 400/1000
+23:36:14|INFO   |NPC-gzip: processing example 500/1000
+23:36:14|INFO   |NPC-gzip: processing example 600/1000
+23:36:14|INFO   |NPC-gzip: processing example 700/1000
+23:36:14|INFO   |NPC-gzip: processing example 800/1000
+23:36:14|INFO   |NPC-gzip: processing example 900/1000
+23:36:14|INFO   |NPC-gzip accuracy: 0.4800 (time: 0.06s)
+23:36:15|INFO   |Saving results to output/method_out.json
+23:36:15|INFO   |Experiment completed successfully!
+23:36:15|INFO   |Results saved to output/method_out.json and output/method_out_schema.json

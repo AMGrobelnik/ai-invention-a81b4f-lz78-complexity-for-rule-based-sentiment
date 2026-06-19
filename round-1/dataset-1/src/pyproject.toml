@@ -1,0 +1,16 @@
+[project]
+name = "sentiment-datasets-lz78"
+version = "0.1.0"
+description = "Standardized sentiment datasets for LZ78 complexity experiments"
+requires-python = ">=3.12"
+dependencies = [
+    "loguru==0.7.3",
+    "datasets==5.0.0",
+    "huggingface-hub==1.20.0",
+    "pandas==3.0.3",
+    "jsonschema==4.26.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

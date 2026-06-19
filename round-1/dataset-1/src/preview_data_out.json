@@ -1,0 +1,73 @@
+{
+  "datasets": [
+    {
+      "dataset": "imdb",
+      "examples": [
+        {
+          "input": "This movie is not just bad, not just corny, it is repulsive. Something about Daphne, about the creepy call-girl, about the whole damn (and I use the word literally) film radiates a grotesquery that wo...",
+          "output": "negative",
+          "metadata_split": "train",
+          "metadata_row_index": 0
+        },
+        {
+          "input": "The DVD for \"Danaza Macabra\" (Castle of Blood) is very odd. That's because parts of the film are in French with subtitles and the rest is dubbed into English from the French. Sometimes, characters swi...",
+          "output": "positive",
+          "metadata_split": "train",
+          "metadata_row_index": 1
+        },
+        {
+          "input": "I commend pictures that try something different. Many films just seem like re-treads of old ideas, so that is the big reason I so strongly recommend Passport to Pimlico.<br /><br />The movie is set ju...",
+          "output": "positive",
+          "metadata_split": "train",
+          "metadata_row_index": 2
+        }
+      ]
+    },
+    {
+      "dataset": "amazon_polarity",
+      "examples": [
+        {
+          "input": "was savage viewing way back when...... I actually saw film at my local cinema way back in the late 60s..on general release.....I was 17 and it had an X rating(adults only)..remember it being upsetting...",
+          "output": "negative",
+          "metadata_split": "train",
+          "metadata_row_index": 0
+        },
+        {
+          "input": "Terrible sound, Amp is overhyped and fake. I thought these were going to be the best heaphones,I wanted them to buy the greatest, I was dissapointed and was contempt with them. For a while until I rea...",
+          "output": "negative",
+          "metadata_split": "train",
+          "metadata_row_index": 1
+        },
+        {
+          "input": "The more the merrier Made in 1943 by the great George Stevens, it is highly entertaining with Jean Arthur at her best. Charles Coburn won an Oscar for Best Supporting Actor for his role as the crafty ...",
+          "output": "positive",
+          "metadata_split": "train",
+          "metadata_row_index": 2
+        }
+      ]
+    },
+    {
+      "dataset": "tweet_sentiment",
+      "examples": [
+        {
+          "input": "\"Woke up this morning, smiled with the rising sun...singing sweet songs of melodies pure and true!\" - Bob Marley",
+          "output": "positive",
+          "metadata_split": "train",
+          "metadata_row_index": 0
+        },
+        {
+          "input": "\"Just drove through Calle Ocho on a Friday night. Never knew it was Cuban brickell. Outside bars, lounges, pubs... Interesting..\"",
+          "output": "positive",
+          "metadata_split": "train",
+          "metadata_row_index": 1
+        },
+        {
+          "input": "Wish I was going to the rodeo tomorrow night with everyone :( stupid surgery",
+          "output": "negative",
+          "metadata_split": "train",
+          "metadata_row_index": 2
+        }
+      ]
+    }
+  ]
+}

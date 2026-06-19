@@ -1,0 +1,91 @@
+{
+  "datasets": [
+    {
+      "dataset": "imdb",
+      "examples": [
+        {
+          "input": "What is the story what is it on the screen. At first I must say, do not touch this movie, it is for your own best (it sucks). And really what is the story, in the beginning it seems okay but after ten",
+          "output": "negative",
+          "metadata_complexity": "0.6011560693641619",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "By watching this film you will not only explore the \"Turkish music\" but will also explore the city of Istanbul with wonderful pictures and scenes from all over the important regions of the city.There ",
+          "output": "positive",
+          "metadata_complexity": "0.592",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "haggard doesn't even need to be graded, since it was never designed to be graded like Oscar-winning movies are and it was never intended to have won an Oscar (obviously). if you just look at some of t",
+          "output": "positive",
+          "metadata_complexity": "0.5683615819209039",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        }
+      ]
+    },
+    {
+      "dataset": "amazon_polarity",
+      "examples": [
+        {
+          "input": "Great History This book is listed as Elementary Reading for the [...] Hidden Gems Newsletter. It provides great historical reading about the Davis family. Before the reading the book I had no idea who",
+          "output": "positive",
+          "metadata_complexity": "0.6086956521739131",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "These Guys Are Passing For Heroes? I'm normally all for a good yarn full of swashbucklers and adventure, but this one just didn't sit well with me. I found the protagonists to be less than sympathetic",
+          "output": "negative",
+          "metadata_complexity": "0.6103896103896104",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "TOO BASIC The title misrepresents the content; the information is limited and over stated. If you don't already know these conventions from the most basic viewing of films, this book won't help.",
+          "output": "negative",
+          "metadata_complexity": "0.7628865979381443",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        }
+      ]
+    },
+    {
+      "dataset": "tweet_sentiment",
+      "examples": [
+        {
+          "input": "@user @user @user @user @user haha what!?? Um cy young? Roger clemens PEDRO??? wow dude ur a ASSHOLE",
+          "output": "negative",
+          "metadata_complexity": "0.84",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        },
+        {
+          "input": "Legal framework for challenging U.S. election by brilliant Larry @user",
+          "output": "positive",
+          "metadata_complexity": "1.0571428571428572",
+          "predict_lz78": "positive",
+          "predict_vader": "positive",
+          "predict_textblob": "positive"
+        },
+        {
+          "input": "@user the reality is that anyone who made a big splash in their teens & is now not in a 20-something or eligible for social security",
+          "output": "negative",
+          "metadata_complexity": "0.8181818181818182",
+          "predict_lz78": "negative",
+          "predict_vader": "negative",
+          "predict_textblob": "negative"
+        }
+      ]
+    }
+  ]
+}

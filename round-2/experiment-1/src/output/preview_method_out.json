@@ -1,0 +1,76 @@
+{
+  "datasets": [
+    {
+      "dataset": "imdb",
+      "examples": [
+        {
+          "input": "Sentiment classification on imdb",
+          "output": "Experiment results",
+          "metadata_dataset": "imdb",
+          "metadata_test_size": "25000",
+          "metadata_p_value": "0.3155357381772732",
+          "metadata_significant": "False",
+          "metadata_cliffs_delta": "-0.007329952",
+          "metadata_threshold": "0.5621166678941342",
+          "metadata_direction": "lower",
+          "predict_lz78_accuracy": "0.50124",
+          "predict_lz78_f1_macro": "0.5009958400589641",
+          "predict_vader_accuracy": "0.69832",
+          "predict_vader_f1_macro": "0.6902058131604987",
+          "predict_textblob_accuracy": "0.6914",
+          "predict_textblob_f1_macro": "0.6694592434969788",
+          "predict_npc_gzip_accuracy": "0.50032",
+          "predict_npc_gzip_f1_macro": "0.4993006690920673"
+        }
+      ]
+    },
+    {
+      "dataset": "amazon_polarity",
+      "examples": [
+        {
+          "input": "Sentiment classification on amazon_polarity",
+          "output": "Experiment results",
+          "metadata_dataset": "amazon_polarity",
+          "metadata_test_size": "9916",
+          "metadata_p_value": "9.483482688068471e-11",
+          "metadata_significant": "True",
+          "metadata_cliffs_delta": "0.07508627127003578",
+          "metadata_threshold": "0.6559018920636497",
+          "metadata_direction": "higher",
+          "predict_lz78_accuracy": "0.531968535699879",
+          "predict_lz78_f1_macro": "0.528955981761262",
+          "predict_vader_accuracy": "0.7124848729326341",
+          "predict_vader_f1_macro": "0.6990782627801828",
+          "predict_textblob_accuracy": "0.6847519160951997",
+          "predict_textblob_f1_macro": "0.6601887096508969",
+          "predict_npc_gzip_accuracy": "0.5006050826946349",
+          "predict_npc_gzip_f1_macro": "0.5000513754300172"
+        }
+      ]
+    },
+    {
+      "dataset": "tweet_sentiment",
+      "examples": [
+        {
+          "input": "Sentiment classification on tweet_sentiment",
+          "output": "Experiment results",
+          "metadata_dataset": "tweet_sentiment",
+          "metadata_test_size": "4750",
+          "metadata_p_value": "3.7180726479682384e-95",
+          "metadata_significant": "True",
+          "metadata_cliffs_delta": "0.3467856842105263",
+          "metadata_threshold": "0.9207741318895255",
+          "metadata_direction": "higher",
+          "predict_lz78_accuracy": "0.6290526315789474",
+          "predict_lz78_f1_macro": "0.6245530927996914",
+          "predict_vader_accuracy": "0.7448421052631579",
+          "predict_vader_f1_macro": "0.7356446358590958",
+          "predict_textblob_accuracy": "0.6387368421052632",
+          "predict_textblob_f1_macro": "0.6037193498722042",
+          "predict_npc_gzip_accuracy": "0.4903157894736842",
+          "predict_npc_gzip_f1_macro": "0.47324905898479147"
+        }
+      ]
+    }
+  ]
+}

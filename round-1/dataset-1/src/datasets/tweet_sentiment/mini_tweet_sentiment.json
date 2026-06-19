@@ -1,0 +1,408 @@
+{
+  "dataset_name": "tweet_sentiment",
+  "domain": "social_media",
+  "train": [
+    {
+      "text": "\"QT @user In the original draft of the 7th book, Remus Lupin survived the Battle of Hogwarts. #HappyBirthdayRemusLupin\"",
+      "label": "positive"
+    },
+    {
+      "text": "@user Alciato: Bee will invest 150 million in January, another 200 in the Summer and plans to bring Messi by 2017\"",
+      "label": "positive"
+    },
+    {
+      "text": "@user LIT MY MUM 'Kerry the louboutins I wonder how many Willam owns!!! Look Kerry Warner Wednesday!'",
+      "label": "positive"
+    },
+    {
+      "text": "\"\\\"\"\"\" SOUL TRAIN\\\"\"\"\" OCT 27 HALLOWEEN SPECIAL ft T.dot FINEST rocking the mic...CRAZY CACTUS NIGHT CLUB ..ADV ticket $10 wt out costume $15...\"",
+      "label": "positive"
+    },
+    {
+      "text": "So disappointed in wwe summerslam! I want to see john cena wins his 16th title",
+      "label": "negative"
+    },
+    {
+      "text": "\"This is the last Sunday w/o football .....,NFL is back baby\"",
+      "label": "positive"
+    },
+    {
+      "text": "Super excited for homecoming Saturday with Monroe! :D my new nephew is here but I can\\u2019t see him :(",
+      "label": "positive"
+    },
+    {
+      "text": "That sucks if you have to take the SATs tomorrow",
+      "label": "negative"
+    },
+    {
+      "text": "Creighton Volleyball leads 8-5 early in 2nd set. Match becomes even bigger with both Wichita St. & Missouri State down 0-1 at home tonight.",
+      "label": "positive"
+    },
+    {
+      "text": "This time tomorrow...we'll have the Iron on. Iron Maiden pieces Drops tomorrow nights.",
+      "label": "positive"
+    },
+    {
+      "text": "Amy Schumer sat down with The Hollywood Reporter and opened up about the sexist remarks and unnecessary criticism she's faced since",
+      "label": "negative"
+    },
+    {
+      "text": "Reminder: Samsung Unveils the Galaxy Note 5 and S6 Edge+ Tomorrow Morning! - - #tech #news...",
+      "label": "positive"
+    },
+    {
+      "text": "Yes glass of red\\u002c Rammstein and day off tomorrow (thank you @user just what I needed.",
+      "label": "positive"
+    },
+    {
+      "text": "Vampettes we are back on the 21st place keep tweeting with the hashtag #MTVStars The Vamps #MTVStarsOf2015",
+      "label": "positive"
+    },
+    {
+      "text": "Looking forward to going to Carrow Rd tonight. Last time we were there\\u002c Bale scored 2 and we were 3rd. Do not want extra time though",
+      "label": "positive"
+    },
+    {
+      "text": "Right guys\\u002c last competition of the night... Like this status for a chance to win a copy of Judas Priest\\u2019s 30th...",
+      "label": "positive"
+    },
+    {
+      "text": "We\\u2019re in the studio working on the new album and it sounds EPIC. We may as well pick up our Brit Award now\\u002c tbh.",
+      "label": "positive"
+    },
+    {
+      "text": "Sunday (tomorrow) is National Ice Cream Day and have we got a gift for you!   Join us for an ice cream sundae and...",
+      "label": "positive"
+    },
+    {
+      "text": "I may or may not buy myself the illustrated version of Harry potter for my birthday",
+      "label": "positive"
+    },
+    {
+      "text": "I wanna see STUDIO FOOTAGE SO BAD. We are about to hear some unreleased STUFF! Likeeeeeeeeee I can\\u2019t wait until Sunday.",
+      "label": "positive"
+    },
+    {
+      "text": "@user how the hell does every one else get to keep their religious and 1st amnt rights, except Christians!!! This is just wrong!!!\"",
+      "label": "negative"
+    },
+    {
+      "text": "A @user rule change should allow Carly Fiorina to earn a spot on the main stage for the 2nd Republican debate.",
+      "label": "positive"
+    },
+    {
+      "text": "\"I'm going to see Paper Towns. Saturday, 22 August 2015 at 17:40 in Leigh #Cineworld\"",
+      "label": "positive"
+    },
+    {
+      "text": "@user Yepo I came in Milan it was my 1st concert and it was so good you guys did an amazing job! You are flawless live like PERFECT!",
+      "label": "positive"
+    },
+    {
+      "text": "Thanks manager for putting me on the schedule for Sunday\"",
+      "label": "negative"
+    },
+    {
+      "text": "I'm sat at work just laughing at all these Hulk Hogan tweets. Hahha ffs",
+      "label": "positive"
+    },
+    {
+      "text": "I feel like the new Janet Jackson single is bringing back 90s R&amp;B. via @user",
+      "label": "positive"
+    },
+    {
+      "text": "This Friday OUTHOUSE is playing at Still Partners in Sea Cliff ! Hop on the Expressway to Nirvana!",
+      "label": "positive"
+    },
+    {
+      "text": "Amazon prime is literally a lie....I ordered a book LAST MONDAY &amp; it still isn't here. do better @user",
+      "label": "negative"
+    },
+    {
+      "text": "Who the hell moshes at Matt and Kim?? Next time watch out for my face\\u002c mofos! My cheekbones better not be purple tomorrow. @user",
+      "label": "negative"
+    },
+    {
+      "text": "\"What a difference not having Sterling on the pitch makes! Welbeck dragged wide 1st half, the Ox replaces Sterling, Welbeck down middle, goal\"",
+      "label": "positive"
+    },
+    {
+      "text": "\"Dear lovely Christians, I wish to inform you, tomorrow we got one Mass @ 10am as we'll be submitting our parish family day collection!\"",
+      "label": "positive"
+    },
+    {
+      "text": "\"To Kpop fans, we song along to vocals, 2nd voices, raps, fanchants, do the instruments &amp; even perform its own choreo",
+      "label": "positive"
+    },
+    {
+      "text": "Mario Williams is catching hell! He will be Exposed on Sunday... Not like Buffalo don't see him 4 who he is Already!",
+      "label": "negative"
+    },
+    {
+      "text": "\"Kris Bryant hurt, Joe Maddon ejected in today's Cubs game, and it's only the 6th inning.",
+      "label": "negative"
+    },
+    {
+      "text": "@user @user at da end of da night no girl that roll with me is on da MTA! They are above that as long as I can afford that!",
+      "label": "positive"
+    },
+    {
+      "text": "My mom's over here tryna tell me that we're taking the CAHSEE tomorrow ._. Nigga it's only the second month of school.. #SlowYourRoll",
+      "label": "negative"
+    },
+    {
+      "text": "Happy Birthday Nick J  May you live long and Happy :)",
+      "label": "positive"
+    },
+    {
+      "text": "ECHO: Sex offender is warned he may face jail over offences #Dorset",
+      "label": "negative"
+    },
+    {
+      "text": "I hope Bernie Sanders is a sun and the other two are shooting stars or black holes.",
+      "label": "positive"
+    },
+    {
+      "text": "Who else is going to the Chris brown tour this Thursday #ChrisBrown#onehellofanighttour",
+      "label": "positive"
+    },
+    {
+      "text": "Your inspirational quotes on twitter/Feb never really got to me. But oh damn ur pics of them on IG have truly inspired me. #idiots\"",
+      "label": "negative"
+    },
+    {
+      "text": "Another beauty of a day in Athens\\u002c Greece. I trust you\\u2019ll have an exceptional Friday wherever in the world you are. Much love.",
+      "label": "positive"
+    },
+    {
+      "text": "\"Another great night in Split, off to Hvar on the 8:30 ferry tomorrow morning... dreading the packing but excited to get there!\"",
+      "label": "positive"
+    },
+    {
+      "text": "@user and im seeing Ed live this Saturday at b'ham NIA! It would be amazing to get the book signed. Thanks for putting it together",
+      "label": "positive"
+    },
+    {
+      "text": "Q_Q Today was the day that Naruto shippuden: UNS4 was suppose to come out. WHYYYYYYY DID THEY PUSH IT ALL THE WAY TO JAN???? HELLO",
+      "label": "negative"
+    },
+    {
+      "text": "The audio booth is ready to blow the roof off the Comcast Center tomorrow! Are you? #MDMadness",
+      "label": "positive"
+    },
+    {
+      "text": "welllll who wants to see Ed Sheeran with me on the 17th????",
+      "label": "positive"
+    },
+    {
+      "text": "GOALdotCOM: Premier League Team of the Week: Van Persie & Aguero both star after City & Arsenal wins",
+      "label": "positive"
+    },
+    {
+      "text": "I'm seeing Ed Sheeran on Wednesday in Miami so if you wanna meet up or say hi hmu!",
+      "label": "positive"
+    }
+  ],
+  "test": [
+    {
+      "text": "I think I may be finally in with the in crowd #mannequinchallenge  #grads2014 @user",
+      "label": "positive"
+    },
+    {
+      "text": "@user Wow,first Hugo Chavez and now Fidel Castro. Danny Glover, Michael Moore, Oliver Stone, and Sean Penn are running out of heroes.",
+      "label": "negative"
+    },
+    {
+      "text": "Twitter's #ThankYouObama Shows Heartfelt Gratitude To POTUS",
+      "label": "positive"
+    },
+    {
+      "text": "@user @user @user @user @user @user take away illegals and dead people and Trump wins popular vote too.",
+      "label": "negative"
+    },
+    {
+      "text": "#onedirection #harrystyles cute little dance \ud83d\ude09",
+      "label": "positive"
+    },
+    {
+      "text": "When Ryan privatizes SS, Medicare, Medicaid, & does away with ACA, what will Trump's base feel about \"change\" then? That's a big one right?!",
+      "label": "negative"
+    },
+    {
+      "text": "Swampbitch Nasty Pelosi  loves yelling 'Fire' in the crowded swamp. #blackfriday @user",
+      "label": "negative"
+    },
+    {
+      "text": "@user Going to see #FantasticBeasts this afternoon. Mom is a Potter fanatic. My niece was, but she's kinda growing out of it.",
+      "label": "positive"
+    },
+    {
+      "text": "The left has really gone Full retard haven't they?",
+      "label": "negative"
+    },
+    {
+      "text": "Can't wait to try this - Google Earth VR - this stuff really is the future of exploration....",
+      "label": "positive"
+    },
+    {
+      "text": "The fact that mike pence thinks there's a \"cure\" for being gay is absolutely the most ridiculous statement I have ever heard in my life",
+      "label": "negative"
+    },
+    {
+      "text": "@user @user @user .....Good Old Graham Westley!!",
+      "label": "positive"
+    },
+    {
+      "text": "@user @user @user @user Clinton foundation reminds me of Maharashtra CM Antuley's foundation in 80s for taking bribe.",
+      "label": "negative"
+    },
+    {
+      "text": "When Trump jeopardizes their social security and Medicare payments imma laugh.",
+      "label": "negative"
+    },
+    {
+      "text": "Wow - the world as we know it is slowly turning upside down: Microsoft joins the Linux Foundation. Good news I supp\u2026",
+      "label": "positive"
+    },
+    {
+      "text": "Grayson Allen just gave dude such a sick move",
+      "label": "negative"
+    },
+    {
+      "text": "I love Manchester. Everyone knows that - I have said it many ti... #CristianoRonaldo #citations",
+      "label": "positive"
+    },
+    {
+      "text": "RT @user It\u2019s not \u201calt-right.\u201d It\u2019s Neo-Nazi.https://t.co/4fPkSVlSDl",
+      "label": "negative"
+    },
+    {
+      "text": "@user In august2008.puppet Saakashvili attacked South Ossetia and Russian peacekeepers.South Ossetia will  be i\u2026",
+      "label": "negative"
+    },
+    {
+      "text": "@user Yes, white supremacists are America's greatest problem ever.  OMG.  GET REAL.  #GOAWAY",
+      "label": "negative"
+    },
+    {
+      "text": "#Hatchimals are shite",
+      "label": "negative"
+    },
+    {
+      "text": "@user @user @user @user @user @user I'm getting tired of these people and their gun control",
+      "label": "negative"
+    },
+    {
+      "text": "It's more difficult to move to Mexico as the Clintons built a bloody great fence all along the Border\u2026",
+      "label": "negative"
+    },
+    {
+      "text": "@user it's weird 'cause I usually like music in his vein, but it's every so shy of being memorable like a Bob Dylan/Lou Reed thing(?)",
+      "label": "negative"
+    },
+    {
+      "text": "@user we all know on JANUARY 20th trump gonna push oil, fossil fuels, fracking down our throats. Fml... We must fight back. GOP sucks",
+      "label": "negative"
+    },
+    {
+      "text": "With James Comey in office, how could the US investigate the Russians? @user @user @user  @user",
+      "label": "negative"
+    },
+    {
+      "text": "Didn't take long for the Clinton Foindation money train to derail. Zero Hedge",
+      "label": "negative"
+    },
+    {
+      "text": "HOO BOY THAT WESTWORLD FINALE",
+      "label": "positive"
+    },
+    {
+      "text": "Tim Duncan and Gregg Popovich. Two legends.",
+      "label": "positive"
+    },
+    {
+      "text": "shoutout to the moms of -Zac Efron-Ryan Gosling-Franco Brothers-Hemsworth brothers-Channing Tatumfor making these beautiful men",
+      "label": "positive"
+    },
+    {
+      "text": "@user @user @user only wants adulation and sycophants. Like Kim Fatty the Third. Paranoia and bugs rooms.",
+      "label": "negative"
+    },
+    {
+      "text": "@user @user @user You're also young :P",
+      "label": "positive"
+    },
+    {
+      "text": "CNN weeps for their erstwhile hero Fidel Castro.",
+      "label": "negative"
+    },
+    {
+      "text": "The latest Smart LifeStyle Food! Thanks to @user #weightloss #nationalfastfoodday",
+      "label": "positive"
+    },
+    {
+      "text": "I find myself humming the notes of #ThisIsUs  @user sang a few episodes ago.  Missing her angelic voice.  Love the show.",
+      "label": "positive"
+    },
+    {
+      "text": "#NoDAPL #CorporateGreed #corporations are #evil especially the media #corporations #tpp #TrumpTrain #bravo #cnn #foxnews #soulless #wrong \ud83d\ude23",
+      "label": "negative"
+    },
+    {
+      "text": "@user it's free with insurance because of Obamacare, which trump wants to repeal \ud83d\ude43",
+      "label": "negative"
+    },
+    {
+      "text": "Madison Bartley with nice debut tonight: made her only shot and finished with 5 boards, 3 blocks, and 2 steals in Fairmont's win over Tipp.",
+      "label": "positive"
+    },
+    {
+      "text": "@user @user @user @user \u261e ISIS Films Men Laughing While Woman Is Raped in Background",
+      "label": "negative"
+    },
+    {
+      "text": "\u00a1Gobble gobble, idiot hookers! #Thanksgiving #ScreamQueens",
+      "label": "negative"
+    },
+    {
+      "text": "@user I hear you. Not worth it. Its like arguing with the devil. That's why I'm on gab.ai. All us deplorables over there. Come join",
+      "label": "negative"
+    },
+    {
+      "text": "@user Your progressive POS rag is as irrelevant as Michael Moore, one of your early editors.",
+      "label": "negative"
+    },
+    {
+      "text": "are you gonna say \"suck it bitch\" to the people he mass deported? the people who've been terrorized by drone strike\u2026",
+      "label": "negative"
+    },
+    {
+      "text": "@user Why is no one screaming for gun control? Shouldn't that be the story MSM obsesses over? But no, they MUST discredit #PizzaGate",
+      "label": "negative"
+    },
+    {
+      "text": "@user Wow...this is one deadly statement! Reminding me of the Greta Muhammad Ali.",
+      "label": "positive"
+    },
+    {
+      "text": "#pmp course prep with @user in #tripoli #libya; 25% discount; only 5 seats left!",
+      "label": "positive"
+    },
+    {
+      "text": "i bought it for kh3 and persona 5 and ffxiv (tho i havent touched that in months",
+      "label": "positive"
+    },
+    {
+      "text": "Drop 75% Price: \u00a37.88. Paperback: The Gay & Lesbian Marriage & Family Reader: Analyses of Problems and Prospe...",
+      "label": "negative"
+    },
+    {
+      "text": "@user @user @user hi love the tweet, got stuff on social security tweet",
+      "label": "positive"
+    },
+    {
+      "text": "@user Man who funded anti-Trump riots, Hillary, @user funded radicals to overthrow police, Ukraine go\u2026",
+      "label": "negative"
+    }
+  ]
+}

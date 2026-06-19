@@ -1,0 +1,48 @@
+{
+  "dataset_name": "imdb",
+  "domain": "movies",
+  "train": [
+    {
+      "text": "I rented I AM CURIOUS-YELLOW from my video store because of all the controversy that surrounded it when it was first released in 1967. I also heard that at first it was seized by U.S. customs if it ev...",
+      "label": "negative"
+    },
+    {
+      "text": "\"I Am Curious: Yellow\" is a risible and pretentious steaming pile. It doesn't matter what one's political views are because this film can hardly be taken seriously on any level. As for the claim that ...",
+      "label": "negative"
+    },
+    {
+      "text": "If only to avoid making this type of film in the future. This film is interesting as an experiment but tells no cogent story.<br /><br />One might feel virtuous for sitting thru it because it touches ...",
+      "label": "negative"
+    },
+    {
+      "text": "This film was probably inspired by Godard's Masculin, f\u00e9minin and I urge you to see that film instead.<br /><br />The film has two strong elements and those are, (1) the realistic acting (2) the impre...",
+      "label": "negative"
+    },
+    {
+      "text": "Oh, brother...after hearing about this ridiculous film for umpteen years all I can think of is that old Peggy Lee song..<br /><br />\"Is that all there is??\" ...I was just an early teen when this smoke...",
+      "label": "negative"
+    }
+  ],
+  "test": [
+    {
+      "text": "I love sci-fi and am willing to put up with a lot. Sci-fi movies/TV are usually underfunded, under-appreciated and misunderstood. I tried to like this, I really did, but it is to good TV sci-fi as Bab...",
+      "label": "negative"
+    },
+    {
+      "text": "Worth the entertainment value of a rental, especially if you like action movies. This one features the usual car chases, fights with the great Van Damme kick style, shooting battles with the 40 shell ...",
+      "label": "negative"
+    },
+    {
+      "text": "its a totally average film with a few semi-alright action sequences that make the plot seem a little better and remind the viewer of the classic van dam films. parts of the plot don't make sense and s...",
+      "label": "negative"
+    },
+    {
+      "text": "STAR RATING: ***** Saturday Night **** Friday Night *** Friday Morning ** Sunday Night * Monday Morning <br /><br />Former New Orleans homicide cop Jack Robideaux (Jean Claude Van Damme) is re-assigne...",
+      "label": "negative"
+    },
+    {
+      "text": "First off let me say, If you haven't enjoyed a Van Damme movie since bloodsport, you probably will not like this movie. Most of these movies may not have the best plots or best actors but I enjoy thes...",
+      "label": "negative"
+    }
+  ]
+}

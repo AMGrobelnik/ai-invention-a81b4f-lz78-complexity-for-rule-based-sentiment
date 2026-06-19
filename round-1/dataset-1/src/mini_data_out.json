@@ -1,0 +1,73 @@
+{
+  "datasets": [
+    {
+      "dataset": "imdb",
+      "examples": [
+        {
+          "input": "This movie is not just bad, not just corny, it is repulsive. Something about Daphne, about the creepy call-girl, about the whole damn (and I use the word literally) film radiates a grotesquery that would offend a brothel mistress. This film makes my skin crawl, makes me regret having reproductive organs, and makes me feel unclean.<br /><br />One of the things that bothers me most about this movie is that they used such a good concept. A creature that makes fantasies with disastrous results, rather than the cliché Worst Nightmare and the overdone Twisted Wish, is a truly fascinating film idea.<br /><br />Thought: The reason why hobgoblins need to be killed before day is that they are attracted to bright lights. During the day, bright lights don't show up well, so they could go anywhere.<br /><br />Count the Hobgoblins: Four hobgoblins drive out of the film studio, and yet at least nine of the pernicious plush-toys are killed throughout the course of the movie.<br /><br />Discussion Question: If you had a frigid, demanding, unappreciative girlfriend, would you enter garden-tool-combat with a military chunkhead? Explain.",
+          "output": "negative",
+          "metadata_split": "train",
+          "metadata_row_index": 0
+        },
+        {
+          "input": "The DVD for \"Danaza Macabra\" (Castle of Blood) is very odd. That's because parts of the film are in French with subtitles and the rest is dubbed into English from the French. Sometimes, characters switched between the two in the middle of a scene! When I tried to get the film to be JUST subtitled or just dubbed, it made no difference! Odd, but still watchable.<br /><br />The story purports to be based on a Poe story, though I can't recall which one. In fact, the character of Poe appears in the beginning and end of the film--though it didn't look especially like him.<br /><br />A rich man makes a bet with a guy down on his luck that he cannot stay the entire night in a manner home. It seems like an easy bet to win--even if the house is very creepy. However, it can't be that easy, as the rich guy says that all those who previously took the bet died--yet this fool STILL wants to make the wager! While in the home, he meets lovely Barbara Steele within and falls madly for her. Later, however, he learns that she died more than a decade earlier! How can this be?! I could tell you more about the plot but don't want to spoil any of the suspense. See it for yourself to find out the rest of the story.<br /><br />This film gets very high marks for creating a creepy atmosphere. The house, black & white cinematography and music work together to make for a scary looking film. As for the plot, it's interesting--especially because there are many twists and turns--so many that you are wondering just who is and who isn't among the undead by the end of the film.<br /><br />The only negative is that I felt sorry for the poor snake that was needlessly killed. Crazy as it might sound, I felt sorry for it and it hardly seemed necessary.<br /><br />Also, parents may want to know that towards the end there is a bit of nudity. A strikingly beautiful woman appears topless, but it's hardly necessary for the plot.",
+          "output": "positive",
+          "metadata_split": "train",
+          "metadata_row_index": 1
+        },
+        {
+          "input": "I commend pictures that try something different. Many films just seem like re-treads of old ideas, so that is the big reason I so strongly recommend Passport to Pimlico.<br /><br />The movie is set just after WW2 and the post-war shortages and rationing seem to be driving Londoners \"barmy\". The film centers on a tiny neighborhood in London called Pimlico. They, too, are sick of not being able to buy what they want but can see no way out of it. That is until they accidentally stumble upon a hidden treasure and a charter which officially named this neighborhood as a sovereign nation many hundreds of years ago! With this document, they reason, they can bypass all the rationing and coupons and live life just as they want, since it turns out they really AREN'T British subjects! Where the movie goes from there and how the crisis is ultimately resolved is something you'll need to see for yourselves. Leave it up the brilliant minds of Ealing Studios to come up with this gem!",
+          "output": "positive",
+          "metadata_split": "train",
+          "metadata_row_index": 2
+        }
+      ]
+    },
+    {
+      "dataset": "amazon_polarity",
+      "examples": [
+        {
+          "input": "was savage viewing way back when...... I actually saw film at my local cinema way back in the late 60s..on general release.....I was 17 and it had an X rating(adults only)..remember it being upsetting and vicious.Ive been looking for it since then (curious only)and only just found it here........wont bother to see it again in these unshockable days...........would link as similar and shockable as the BBC documentary \"The War Game\" ...out on release about the same time...",
+          "output": "negative",
+          "metadata_split": "train",
+          "metadata_row_index": 0
+        },
+        {
+          "input": "Terrible sound, Amp is overhyped and fake. I thought these were going to be the best heaphones,I wanted them to buy the greatest, I was dissapointed and was contempt with them. For a while until I realised they were garage and I sold themWithout the \"bass\" they are [...] and uselessI parenthesize that word since you are not getting genuine bass. Bass should not be powered by batteries, the subwoofer is just a fake label.You really get loud vibrations picked up by drivers, hence why you need batteries. You get a ringing sensation, it will itch the first time.I think skullcandy should sell vibrators not headphones.Overall they are relaxing for a while but you realize the sound quality does not keep up with the bass.I reccomend these 70 dollars be spent elsewhere, try them out for yourself before you buy them I know tons of kids who love them, thus why I sold them.Worth 20 dollars If you ever wanna buy these, either way there's no reason, Sony has xb500's if you want genuine bass.",
+          "output": "negative",
+          "metadata_split": "train",
+          "metadata_row_index": 1
+        },
+        {
+          "input": "The more the merrier Made in 1943 by the great George Stevens, it is highly entertaining with Jean Arthur at her best. Charles Coburn won an Oscar for Best Supporting Actor for his role as the crafty old guy who put the young couple into position to fall in love.",
+          "output": "positive",
+          "metadata_split": "train",
+          "metadata_row_index": 2
+        }
+      ]
+    },
+    {
+      "dataset": "tweet_sentiment",
+      "examples": [
+        {
+          "input": "\"Woke up this morning, smiled with the rising sun...singing sweet songs of melodies pure and true!\" - Bob Marley",
+          "output": "positive",
+          "metadata_split": "train",
+          "metadata_row_index": 0
+        },
+        {
+          "input": "\"Just drove through Calle Ocho on a Friday night. Never knew it was Cuban brickell. Outside bars, lounges, pubs... Interesting..\"",
+          "output": "positive",
+          "metadata_split": "train",
+          "metadata_row_index": 1
+        },
+        {
+          "input": "Wish I was going to the rodeo tomorrow night with everyone :( stupid surgery",
+          "output": "negative",
+          "metadata_split": "train",
+          "metadata_row_index": 2
+        }
+      ]
+    }
+  ]
+}

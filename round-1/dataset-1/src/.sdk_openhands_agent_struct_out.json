@@ -1,0 +1,16 @@
+{
+  "title": "Three Standardized Sentiment Datasets for LZ78 Complexity Experiments",
+  "layman_summary": "Acquired three standardized sentiment datasets (IMDB, Amazon, Twitter) with binary labels and train/test splits for LZ78 complexity sentiment classification. Includes full, mini, and preview variants.",
+  "summary": "Successfully acquired three binary sentiment classification datasets from HuggingFace Hub: (1) IMDB movie reviews (15k examples: 10k train, 5k test) with long-form text; (2) Amazon Polarity product reviews (20k examples: 15k train, 5k test) with medium-length text combining title and content; (3) Tweet Sentiment from TweetEval (11k examples: 8k train, 3k test) with short social media text. All datasets were standardized to a common JSON schema with 'text' and 'label' fields (labels converted to string values 'positive'/'negative'), balanced to have equal positive/negative examples, and split into train/test sets. The datasets represent three distinct domains (movies, products, social media) to test generalization of the LZ78 complexity approach. Full (35MB), mini (9 examples), and preview (9 truncated examples) variants were generated for each dataset. The output was validated against the exp_sel_data_out.json schema and formatted correctly. All files are under the 300MB per-dataset limit and the combined output is under 100MB.",
+  "out_expected_files": {
+    "script": "data.py",
+    "datasets": [
+      {
+        "full": ["full_data_out.json"],
+        "mini": "mini_data_out.json",
+        "preview": "preview_data_out.json"
+      }
+    ]
+  },
+  "upload_ignore_regexes": []
+}

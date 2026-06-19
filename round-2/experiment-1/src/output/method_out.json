@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "method_name": "LZ78 Complexity Sentiment Classification",
+    "description": "LZ78 complexity-based sentiment classification with baseline comparisons",
+    "datasets": [
+      "imdb",
+      "amazon_polarity",
+      "tweet_sentiment"
+    ],
+    "baselines": [
+      "vader",
+      "textblob",
+      "npc_gzip"
+    ]
+  },
+  "results": {
+    "imdb": {
+      "statistical_test": {
+        "statistic": 77552347.5,
+        "p_value": 0.3155357381772732,
+        "cliffs_delta": -0.007329952,
+        "significant": false,
+        "mean_pos": 0.5635344997454024,
+        "mean_neg": 0.5636336164662076,
+        "std_pos": 0.05506050995392398,
+        "std_neg": 0.05280002747703759
+      },
+      "threshold": 0.5621166678941342,
+      "direction": "lower",
+      "lz78": {
+        "accuracy": 0.50124,
+        "precision_pos": 0.5011874664828009,
+        "recall_pos": 0.52336,
+        "f1_pos": 0.5120338120768598,
+        "f1_macro": 0.5009958400589641,
+        "confusion_matrix": [
+          [
+            6542,
+            5958
+          ],
+          [
+            6511,
+            5989
+          ]
+        ]
+      },
+      "vader": {
+        "accuracy": 0.69832,
+        "precision_pos": 0.6498247310528225,
+        "recall_pos": 0.86016,
+        "f1_pos": 0.7403429043586036,
+        "f1_macro": 0.6902058131604987,
+        "confusion_matrix": [
+          [
+            10752,
+            1748
+          ],
+          [
+            5794,
+            6706
+          ]
+        ]
+      },
+      "textblob": {
+        "accuracy": 0.6914,
+        "precision_pos": 0.626313288633124,
+        "recall_pos": 0.94904,
+        "f1_pos": 0.7546197640024173,
+        "f1_macro": 0.6694592434969788,
+        "confusion_matrix": [
+          [
+            11863,
+            637
+          ],
+          [
+            7078,
+            5422
+          ]
+        ]
+      },
+      "npc_gzip": {
+        "accuracy": 0.50032,
+        "precision_pos": 0.5002935133548576,
+        "recall_pos": 0.54544,
+        "f1_pos": 0.5218922229026332,
+        "f1_macro": 0.4993006690920673,
+        "confusion_matrix": [
+          [
+            6818,
+            5682
+          ],
+          [
+            6810,
+            5690
+          ]
+        ]
+      }
+    },
+    "amazon_polarity": {
+      "statistical_test": {
+        "statistic": 13213758.5,
+        "p_value": 9.483482688068471e-11,
+        "cliffs_delta": 0.07508627127003578,
+        "significant": true,
+        "mean_pos": 0.6630663306892596,
+        "mean_neg": 0.6501669616737131,
+        "std_pos": 0.08822731518137472,
+        "std_neg": 0.08031989458341894
+      },
+      "threshold": 0.6559018920636497,
+      "direction": "higher",
+      "lz78": {
+        "accuracy": 0.531968535699879,
+        "precision_pos": 0.5380552220888355,
+        "recall_pos": 0.4519967728922953,
+        "f1_pos": 0.49128576126274254,
+        "f1_macro": 0.528955981761262,
+        "confusion_matrix": [
+          [
+            2241,
+            2717
+          ],
+          [
+            1924,
+            3034
+          ]
+        ]
+      },
+      "vader": {
+        "accuracy": 0.7124848729326341,
+        "precision_pos": 0.6494114310026946,
+        "recall_pos": 0.9235578862444535,
+        "f1_pos": 0.762594720626197,
+        "f1_macro": 0.6990782627801828,
+        "confusion_matrix": [
+          [
+            4579,
+            379
+          ],
+          [
+            2472,
+            2486
+          ]
+        ]
+      },
+      "textblob": {
+        "accuracy": 0.6847519160951997,
+        "precision_pos": 0.6201469045120671,
+        "recall_pos": 0.9536103267446551,
+        "f1_pos": 0.7515498330948974,
+        "f1_macro": 0.6601887096508969,
+        "confusion_matrix": [
+          [
+            4728,
+            230
+          ],
+          [
+            2896,
+            2062
+          ]
+        ]
+      },
+      "npc_gzip": {
+        "accuracy": 0.5006050826946349,
+        "precision_pos": 0.500648228176318,
+        "recall_pos": 0.4673255344897136,
+        "f1_pos": 0.48341331107865637,
+        "f1_macro": 0.5000513754300172,
+        "confusion_matrix": [
+          [
+            2317,
+            2641
+          ],
+          [
+            2311,
+            2647
+          ]
+        ]
+      }
+    },
+    "tweet_sentiment": {
+      "statistical_test": {
+        "statistic": 3798356.5,
+        "p_value": 3.7180726479682384e-95,
+        "cliffs_delta": 0.3467856842105263,
+        "significant": true,
+        "mean_pos": 1.0039430709904351,
+        "mean_neg": 0.936409117377228,
+        "std_pos": 0.1299261542516913,
+        "std_neg": 0.11113029148160043
+      },
+      "threshold": 0.9207741318895255,
+      "direction": "higher",
+      "lz78": {
+        "accuracy": 0.6290526315789474,
+        "precision_pos": 0.6058721934369603,
+        "recall_pos": 0.7385263157894737,
+        "f1_pos": 0.6656546489563567,
+        "f1_macro": 0.6245530927996914,
+        "confusion_matrix": [
+          [
+            1754,
+            621
+          ],
+          [
+            1141,
+            1234
+          ]
+        ]
+      },
+      "vader": {
+        "accuracy": 0.7448421052631579,
+        "precision_pos": 0.6783195338853113,
+        "recall_pos": 0.9313684210526316,
+        "f1_pos": 0.7849538679914834,
+        "f1_macro": 0.7356446358590958,
+        "confusion_matrix": [
+          [
+            2212,
+            163
+          ],
+          [
+            1049,
+            1326
+          ]
+        ]
+      },
+      "textblob": {
+        "accuracy": 0.6387368421052632,
+        "precision_pos": 0.5870081858991286,
+        "recall_pos": 0.936,
+        "f1_pos": 0.7215189873417721,
+        "f1_macro": 0.6037193498722042,
+        "confusion_matrix": [
+          [
+            2223,
+            152
+          ],
+          [
+            1564,
+            811
+          ]
+        ]
+      },
+      "npc_gzip": {
+        "accuracy": 0.4903157894736842,
+        "precision_pos": 0.49287925696594426,
+        "recall_pos": 0.6703157894736842,
+        "f1_pos": 0.568064228367529,
+        "f1_macro": 0.47324905898479147,
+        "confusion_matrix": [
+          [
+            1592,
+            783
+          ],
+          [
+            1638,
+            737
+          ]
+        ]
+      }
+    }
+  },
+  "figures": [
+    "output/figures/lz78_illustration.png",
+    "output/figures/accuracy_comparison.png",
+    "output/figures/tweet_sentiment_distributions.png",
+    "output/figures/amazon_polarity_distributions.png",
+    "output/figures/imdb_distributions.png"
+  ]
+}

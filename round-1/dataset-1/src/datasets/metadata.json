@@ -1,0 +1,70 @@
+{
+  "dataset_collection": {
+    "purpose": "Benchmark datasets for LZ78 complexity-based sentiment classification",
+    "creation_date": "2026-06-18",
+    "datasets": [
+      {
+        "name": "imdb",
+        "huggingface_id": "stanfordnlp/imdb",
+        "domain": "movies",
+        "description": "Large Movie Review Dataset for binary sentiment classification",
+        "train_size": 25000,
+        "test_size": 25000,
+        "labels": ["negative", "positive"],
+        "label_distribution": "balanced (50/50)",
+        "text_field": "text",
+        "avg_text_length": "long (multiple paragraphs)",
+        "source": "Stanford NLP Group",
+        "paper": "Learning Word Vectors for Sentiment Analysis (Maas et al., ACL 2011)",
+        "files": {
+          "full": "datasets/imdb/full_imdb.json",
+          "mini": "datasets/imdb/mini_imdb.json",
+          "preview": "datasets/imdb/preview_imdb.json",
+          "balanced": "datasets/imdb/full_imdb_balanced.json"
+        }
+      },
+      {
+        "name": "amazon_polarity",
+        "huggingface_id": "fancyzhx/amazon_polarity",
+        "domain": "products",
+        "description": "Amazon reviews with binary sentiment polarity",
+        "train_size": 50000,
+        "test_size": 10000,
+        "labels": ["negative", "positive"],
+        "label_distribution": "balanced (50/50)",
+        "text_field": "text (combined title + content)",
+        "avg_text_length": "medium (1-3 sentences)",
+        "source": "Zhang et al. (2015), processed by HuggingFace user fancyzhx",
+        "paper": "Character-level Convolutional Networks for Text Classification (Zhang et al., NIPS 2015)",
+        "files": {
+          "full": "datasets/amazon_polarity/full_amazon_polarity.json",
+          "mini": "datasets/amazon_polarity/mini_amazon_polarity.json",
+          "preview": "datasets/amazon_polarity/preview_amazon_polarity.json",
+          "balanced": "datasets/amazon_polarity/full_amazon_polarity_balanced.json"
+        },
+        "notes": "Originally 3.6M train + 400k test; sampled to 50k + 10k for manageable size"
+      },
+      {
+        "name": "tweet_sentiment",
+        "huggingface_id": "cardiffnlp/tweet_eval (sentiment config)",
+        "domain": "social_media",
+        "description": "Twitter sentiment dataset converted to binary (dropped neutral class)",
+        "train_size": 26073,
+        "test_size": 6347,
+        "labels": ["negative", "positive"],
+        "label_distribution": "imbalanced (original 3-class: neg/neutral/pos)",
+        "text_field": "text",
+        "avg_text_length": "short (tweet length)",
+        "source": "TweetEval benchmark, Cardiff NLP Group",
+        "paper": "TweetEval: Unified Benchmark and Comparative Evaluation for Tweet Classification (Barbieri et al., EMNLP 2020)",
+        "files": {
+          "full": "datasets/tweet_sentiment/full_tweet_sentiment.json",
+          "mini": "datasets/tweet_sentiment/mini_tweet_sentiment.json",
+          "preview": "datasets/tweet_sentiment/preview_tweet_sentiment.json",
+          "balanced": "datasets/tweet_sentiment/full_tweet_sentiment_balanced.json"
+        },
+        "notes": "Original dataset has 3 classes (0=negative, 1=neutral, 2=positive). Neutral examples removed. Validation split merged into train."
+      }
+    ]
+  }
+}
